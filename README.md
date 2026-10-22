@@ -69,8 +69,6 @@ r3tr-generator/
 │   └── app.py                 # NiceGUI web interface + download endpoints
 ├── tests/test_core.py         # pytest suite
 ├── data/export_import_data.csv   # sample data (2325 rows)
-├── docs/                      # original prompt (verbatim archive), TADIR
-│                              # reference, alt header reference
 ├── requirements.txt
 ├── Dockerfile                 # optional container deployment
 └── generated_scripts/         # default output directory (created at runtime)
