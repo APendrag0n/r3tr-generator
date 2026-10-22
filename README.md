@@ -5,9 +5,9 @@ lists SAP components, their tables and the `Export` / `Import` flags —
 rebuilt as a proper Python project with a **NiceGUI web interface** plus
 the classic CLI.
 
-> **PL:** Generator plików `.r3tr` (export/import R3trans) z pliku CSV
-> (komponenty, tabele, flagi Export/Import). Interfejs webowy (NiceGUI)
-> + klasyczny CLI. Uruchomienie: `python run.py`, otwórz
+> Generator for `.r3tr` files (R3trans export/import) based on a CSV file
+> (components, tables, export/import flags). Includes a web interface (NiceGUI)
+> as well as a classic CLI. To run: execute `python run.py` and open
 > http://localhost:8080.
 
 ## Features
