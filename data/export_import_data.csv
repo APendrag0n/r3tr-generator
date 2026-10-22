@@ -70,68 +70,68 @@ ALECUST;TBDME;ALE supplement data for EDI message type;1;1
 ALECUST;TBD24;ALE: IDOC reduction flagged with positive logic;1;1
 ALECUST;TBD62;Assignment of change document field to message type;1;1
 ALECUST;TBDA2;ALE message active;1;1
-ARCHIVE;CREP;KPRO CMS: Content Repositories;1;1
-ARCHIVE;CREPDESCR;KPRO CMS: Descriptions of Content Repositories;1;1
-ARCHIVE;CREPDOCSP;Document Areas for Content Repositories;1;1
-ARCHIVE;CREP_RFC;KPRO CMS: Content Repositories (RFC);1;1
-ARCHIVE;CREP_FILE;KPRO CMS: Content Repositories (RFC);1;1
-ARCHIVE;CREP_FTP;KPRO CMS: Content Repositories (FTP);1;1
-ARCHIVE;CREP_HTTP;KPRO CMS: Content Repositories (HTTP);1;1
-ARCHIVE;CREP_LREP;KPro CMS: Content Repositories (Logical Repository);1;1
-ARCHIVE;CREP_R3DB;KPRO CMS: Content Repositories (R3DB);1;1
-ARCHIVE;CREP_RPC;KPRO CMS: Content Repositories (RPC);1;1
-ARCHIVE;CREP_TREE;KPRO CMS: Content Repositories (TREE);1;1
-ARCHIVE;TOA01;Link table 1;1;1
-ARCHIVE;TOA02;Link table 2;1;1
-ARCHIVE;TOA03;Link table 3;1;1
-ARCHIVE;TOAAR;Communications configuration table for storage system;1;1
-ARCHIVE;TOADL;SAP ArchiveLink print lists;1;1
-ARCHIVE;TOAHR;Container table for HR administration level;1;1
-ARCHIVE;TOAOM;SAP ArchiveLink: Meta table for links;1;1
-ARCHIVE;TOASR;Language-Dependent Table For TOAAR;1;1
-ARCHIVE;ARCH_CLASS;Classes of integrated objects;1;1
-ARCHIVE;ARCH_CTXT;Texts for Archiving Classes;1;1
-ARCHIVE;ARCH_DEF;Definition of archive object;1;1
-ARCHIVE;ARCH_DELE;Objects with tables from which entries are deleted;1;1
-ARCHIVE;ARCH_ENQUE;Obsolete: Lock Objects for Archiving and Reorganization;1;1
-ARCHIVE;ARCH_ETXT;Obsolete Description for Lock Objects of Archiving;1;1
-ARCHIVE;ARCH_EVENT;ABAP Events for Archiving Generation Program;1;1
-ARCHIVE;ARCH_GENER;Definition of Events for Archiving Generation Program;1;1
-ARCHIVE;ARCH_IDX;Index table for data object selection;1;1
-ARCHIVE;ARCH_IDX_S;Index Table for Archiving Demo with BC_SBOOK;1;1
-ARCHIVE;ARCH_NET;Table with archiving objects for network display;1;1
-ARCHIVE;ARCH_NUM;Cross-client Number Assignment for Archive Run;1;1
-ARCHIVE;ARCH_OBJ;Objects for archiving and reorganization;1;1
-ARCHIVE;ARCH_OCLAS;Assign classes to archive object;1;1
-ARCHIVE;ARCH_OHEAD;Archive File Overhead;1;1
-ARCHIVE;ARCH_PARAM;Cross-Object Customizing Data Archiving;1;1
-ARCHIVE;ARCH_REPOW;Reporting and Read Programs for Archive Files;1;1
-ARCHIVE;ARCH_RPRG;Archiving objects with associated read programs;1;1
-ARCHIVE;ARCH_SERV;Data Archiving Server Selection (Obsolete from Release 6.10);1;1
-ARCHIVE;ARCH_TCODE;Application Customizing Transactions;1;1
-ARCHIVE;ARCH_TXT;Description of archive objects;1;1
-ARCHIVE;ARCH_USR;Archiving Object-Specific Customizing;1;1
-ARCHIVE;ADMI_APPLI;Application archive file information table;1;1
-ARCHIVE;ADMI_BUFFC;Buffer table;1;1
-ARCHIVE;ADMI_BUFFI;Buffer table;1;1
-ARCHIVE;ADMI_CRIT;Manage critical archiving objects (database conversion);1;1
-ARCHIVE;ADMI_EXAMP;Archiving object EXAMPLE archive file info table;1;1
-ARCHIVE;ADMI_FIDOC;Archive Management for FI_DOCUMNT Object;1;1
-ARCHIVE;ADMI_FIDOQ;Enhancement to Archive Mgt. for FI_DOCUMNT Object;1;1
-ARCHIVE;ADMI_FILES;Archive Files of Archive Sessions;1;1
-ARCHIVE;ADMI_JOBS;Archive Jobs;1;1
-ARCHIVE;ADMI_RJOBS;Read program jobs;1;1
-ARCHIVE;ADMI_RUN;Archive Runs Header Data;1;1
-ARCHIVE;ADMI_SBOOK;Archive file - info table for archiving object BC_SBOOK;1;1
-ARCHIVE;ADMI_SKIP;Address of data objects to be skipped;1;1
-ARCHIVE;ADMI_VARIA;Contents of the Variant for the Archiving Program;1;1
-ARCHIVE;TOACU;SAP ArchiveLink Customizing table;1;1
-ARCHIVE;TOACO;Check table for link tables;1;1
-ARCHIVE;SDOKPROF;SDOK: Profiles;1;1
-ARCHIVE;SDOKSTCAE;Storage Category;1;1
-ARCHIVE;SDOKSTCAT;Descriptions of Storage Category;1;1
-ARCHIVE;SDOKSTCA;Storage Category Repository;1;1
-ARCHIVE;SDOKSTCDSP;SDOK: Document Areas for Storage Categories;1;1
+ARCHIVE;CREP;KPRO CMS: Content Repositories;0;0
+ARCHIVE;CREPDESCR;KPRO CMS: Descriptions of Content Repositories;0;0
+ARCHIVE;CREPDOCSP;Document Areas for Content Repositories;0;0
+ARCHIVE;CREP_RFC;KPRO CMS: Content Repositories (RFC);0;0
+ARCHIVE;CREP_FILE;KPRO CMS: Content Repositories (RFC);0;0
+ARCHIVE;CREP_FTP;KPRO CMS: Content Repositories (FTP);0;0
+ARCHIVE;CREP_HTTP;KPRO CMS: Content Repositories (HTTP);0;0
+ARCHIVE;CREP_LREP;KPro CMS: Content Repositories (Logical Repository);0;0
+ARCHIVE;CREP_R3DB;KPRO CMS: Content Repositories (R3DB);0;0
+ARCHIVE;CREP_RPC;KPRO CMS: Content Repositories (RPC);0;0
+ARCHIVE;CREP_TREE;KPRO CMS: Content Repositories (TREE);0;0
+ARCHIVE;TOA01;Link table 1;0;0
+ARCHIVE;TOA02;Link table 2;0;0
+ARCHIVE;TOA03;Link table 3;0;0
+ARCHIVE;TOAAR;Communications configuration table for storage system;0;0
+ARCHIVE;TOADL;SAP ArchiveLink print lists;0;0
+ARCHIVE;TOAHR;Container table for HR administration level;0;0
+ARCHIVE;TOAOM;SAP ArchiveLink: Meta table for links;0;0
+ARCHIVE;TOASR;Language-Dependent Table For TOAAR;0;0
+ARCHIVE;ARCH_CLASS;Classes of integrated objects;0;0
+ARCHIVE;ARCH_CTXT;Texts for Archiving Classes;0;0
+ARCHIVE;ARCH_DEF;Definition of archive object;0;0
+ARCHIVE;ARCH_DELE;Objects with tables from which entries are deleted;0;0
+ARCHIVE;ARCH_ENQUE;Obsolete: Lock Objects for Archiving and Reorganization;0;0
+ARCHIVE;ARCH_ETXT;Obsolete Description for Lock Objects of Archiving;0;0
+ARCHIVE;ARCH_EVENT;ABAP Events for Archiving Generation Program;0;0
+ARCHIVE;ARCH_GENER;Definition of Events for Archiving Generation Program;0;0
+ARCHIVE;ARCH_IDX;Index table for data object selection;0;0
+ARCHIVE;ARCH_IDX_S;Index Table for Archiving Demo with BC_SBOOK;0;0
+ARCHIVE;ARCH_NET;Table with archiving objects for network display;0;0
+ARCHIVE;ARCH_NUM;Cross-client Number Assignment for Archive Run;0;0
+ARCHIVE;ARCH_OBJ;Objects for archiving and reorganization;0;0
+ARCHIVE;ARCH_OCLAS;Assign classes to archive object;0;0
+ARCHIVE;ARCH_OHEAD;Archive File Overhead;0;0
+ARCHIVE;ARCH_PARAM;Cross-Object Customizing Data Archiving;0;0
+ARCHIVE;ARCH_REPOW;Reporting and Read Programs for Archive Files;0;0
+ARCHIVE;ARCH_RPRG;Archiving objects with associated read programs;0;0
+ARCHIVE;ARCH_SERV;Data Archiving Server Selection (Obsolete from Release 6.10);0;0
+ARCHIVE;ARCH_TCODE;Application Customizing Transactions;0;0
+ARCHIVE;ARCH_TXT;Description of archive objects;0;0
+ARCHIVE;ARCH_USR;Archiving Object-Specific Customizing;0;0
+ARCHIVE;ADMI_APPLI;Application archive file information table;0;0
+ARCHIVE;ADMI_BUFFC;Buffer table;0;0
+ARCHIVE;ADMI_BUFFI;Buffer table;0;0
+ARCHIVE;ADMI_CRIT;Manage critical archiving objects (database conversion);0;0
+ARCHIVE;ADMI_EXAMP;Archiving object EXAMPLE archive file info table;0;0
+ARCHIVE;ADMI_FIDOC;Archive Management for FI_DOCUMNT Object;0;0
+ARCHIVE;ADMI_FIDOQ;Enhancement to Archive Mgt. for FI_DOCUMNT Object;0;0
+ARCHIVE;ADMI_FILES;Archive Files of Archive Sessions;0;0
+ARCHIVE;ADMI_JOBS;Archive Jobs;0;0
+ARCHIVE;ADMI_RJOBS;Read program jobs;0;0
+ARCHIVE;ADMI_RUN;Archive Runs Header Data;0;0
+ARCHIVE;ADMI_SBOOK;Archive file - info table for archiving object BC_SBOOK;0;0
+ARCHIVE;ADMI_SKIP;Address of data objects to be skipped;0;0
+ARCHIVE;ADMI_VARIA;Contents of the Variant for the Archiving Program;0;0
+ARCHIVE;TOACU;SAP ArchiveLink Customizing table;0;0
+ARCHIVE;TOACO;Check table for link tables;0;0
+ARCHIVE;SDOKPROF;SDOK: Profiles;0;0
+ARCHIVE;SDOKSTCAE;Storage Category;0;0
+ARCHIVE;SDOKSTCAT;Descriptions of Storage Category;0;0
+ARCHIVE;SDOKSTCA;Storage Category Repository;0;0
+ARCHIVE;SDOKSTCDSP;SDOK: Document Areas for Storage Categories;0;0
 ARCHIVE_ADK;ARCH_CLASS;Classes of integrated objects;1;1
 ARCHIVE_ADK;ARCH_CTXT;Texts for Archiving Classes;1;1
 ARCHIVE_ADK;ARCH_DEF;Definition of archive object;1;1
@@ -197,13 +197,13 @@ ARCHIVE_CUST;SDOKSTCAE;Storage Category;1;1
 ARCHIVE_CUST;SDOKSTCAT;Descriptions of Storage Category;1;1
 ARCHIVE_CUST;SDOKSTCA;Storage Category Repository;1;1
 ARCHIVE_CUST;SDOKSTCDSP;SDOK: Document Areas for Storage Categories;1;1
-ARCHIVE_OBJ;TOA01;Link table 1;1;1
-ARCHIVE_OBJ;TOA02;Link table 2;1;1
-ARCHIVE_OBJ;TOA03;Link table 3;1;1
-ARCHIVE_OBJ;TOACO;Check table for link tables;1;1
-ARCHIVE_OBJ;TOADL;SAP ArchiveLink print lists;1;1
-ARCHIVE_OBJ;TOAHR;Container table for HR administration level;1;1
-ARCHIVE_OBJ;TOAAT;Table to store the File attributes;1;1
+ARCHIVE_OBJ;TOA01;Link table 1;0;0
+ARCHIVE_OBJ;TOA02;Link table 2;0;0
+ARCHIVE_OBJ;TOA03;Link table 3;0;0
+ARCHIVE_OBJ;TOACO;Check table for link tables;0;0
+ARCHIVE_OBJ;TOADL;SAP ArchiveLink print lists;0;0
+ARCHIVE_OBJ;TOAHR;Container table for HR administration level;0;0
+ARCHIVE_OBJ;TOAAT;Table to store the File attributes;0;0
 BATCHJOBS;TBTCO;Job Status Overview Table;1;0
 BATCHJOBS;TBTCS;Background Processing: Time Schedule Table;1;0
 BATCHJOBS;TBTCP;Background Job Step Overview;1;0
@@ -240,10 +240,10 @@ BATCHJOBS;TBTCJOBLOG8;Job Log Table;1;0
 BATCHJOBS;TBTCJOBLOG9;Job Log Table;1;0
 BATCHSRVGRP;TSRVGRP;Server Groups in Background Processing;1;1
 BATCHSRVGRP;TSRVLST;Contents of Background Processing Server Groups;1;1
-BATCH_INPUT;BDCUSEOP;User-Specific Options for Transaction SM35;1;1
-BATCH_INPUT;APQI;Queue info definition;1;1
-BATCH_INPUT;APQD;DATA DEFINITION Queue;1;1
-BATCH_INPUT;APQL;Batch Input Log Directory;1;1
+BATCH_INPUT;BDCUSEOP;User-Specific Options for Transaction SM35;0;0
+BATCH_INPUT;APQI;Queue info definition;0;0
+BATCH_INPUT;APQD;DATA DEFINITION Queue;0;0
+BATCH_INPUT;APQL;Batch Input Log Directory;0;0
 BGRFC;BGRFC_CUST_SUPER;Customizing for bgRFC Supervisor Destinations;1;1
 BGRFC;BGRFC_CUST_I_DST;Inbound Scheduler/Application Server Customizing;1;1
 BGRFC;BGRFC_CUST_I_SRV;Inbound Scheduler/Destinations Customizing;1;1
@@ -253,16 +253,16 @@ BGRFC;QRFC_CUST_I_DEST;Inbound Scheduler / New/Old API Customizing;1;1
 BGRFC;BGRFC_CUST_O_DST;Outbound Scheduler/Application Server Customizing;1;1
 BGRFC;BGRFC_CUST_O_SRV;Outbound Scheduler/Destination Customizing;1;1
 BGRFC;BGRFC_CUST_O_SYS;Customizing for Outbound Scheduler/System-Wide Settings;1;1
-BSSUSER;AGR_USERS;Assignment of roles to users;1;0
-BSSUSER;USR01;User master record (runtime data);1;0
-BSSUSER;USR02;Logon Data (Kernel-Side Use);1;0
-BSSUSER;USR04;User master authorizations;1;0
-BSSUSER;USR05;User Master Parameter ID;1;0
-BSSUSER;USR06;Additional Data per User;1;0
-BSSUSER;USREFUS;Reference user for internet applications;1;0
-BSSUSER;UST04;User masters;1;0
-BSSUSER;USRACL;SNC Access Control List (ACL): User;1;0
-BSSUSER;USREXTID;Assignment of External ID to Users;1;0
+BSSUSER;AGR_USERS;Assignment of roles to users;0;0
+BSSUSER;USR01;User master record (runtime data);0;0
+BSSUSER;USR02;Logon Data (Kernel-Side Use);0;0
+BSSUSER;USR04;User master authorizations;0;0
+BSSUSER;USR05;User Master Parameter ID;0;0
+BSSUSER;USR06;Additional Data per User;0;0
+BSSUSER;USREFUS;Reference user for internet applications;0;0
+BSSUSER;UST04;User masters;0;0
+BSSUSER;USRACL;SNC Access Control List (ACL): User;0;0
+BSSUSER;USREXTID;Assignment of External ID to Users;0;0
 BS_FND_SCM;RCCC_ENG_DEST;RCCF: Destinations for Engines;1;1
 BS_FND_SCM;RCCC_PARAM;RCCF: General Settings;1;1
 BW;RSLOGSYSDEST;Destination for Logical System (Note: Comp. EDIPOA ! );1;1
@@ -337,277 +337,277 @@ CCMSHISTORY;CCMSBIDATA;Time-Dependent General MTE Data;1;1
 CCMSHISTORY;CCMSBIMETH;Time-Dependent MTE Reaction Methods;1;1
 CCMSHISTORY;CCMSBITHRH;Time-Dependent MTE Threshold Values;1;1
 CCMSHISTORY;PAHI;History of system, DB and SAP parameter;1;1
-CHARM_CTS;CTS_APPLTYPE;CTS: Supported values for application types;1;0
-CHARM_CTS;CTS_APPLTYPET;CTS: Text for supported application types (CTS_APPLTYPE);1;0
-CHARM_CTS;CTS_EXT_PS;External Project Systems;1;0
-CHARM_CTS;CTS_EXT_PT;Text Description of External Project Systems;1;0
-CHARM_CTS;CTS_FILELOCK;ECTS: File Locking for Upload;1;0
-CHARM_CTS;CTS_PRSTAT;Project Status Switch for CTS Projects;1;0
-CHARM_CTS;CTS_PRSW;Status Switch for Projects;1;0
-CHARM_CTS;CTS_PRSWT;Status Switch for Projects;1;0
-CHARM_CTS;CTS_PV_ALL;Upgrade Paths: PPMS Planned Data;1;0
-CHARM_CTS;CTS_PV_CMP;Upgrade Paths: PPMS Planned Data: Compatibility of Prd. Ver.;1;0
-CHARM_CTS;CTS_PV_PPP;PPMS Planned Data: Product Versions, Support Packages, PIs;1;0
-CHARM_CTS;CTS_RQ_APPLID;CTS:Possible values for application types;1;0
-CHARM_CTS;CTS_RQ_APPLIDT;CTS: Text table for application values (CTS_RQ_APPLID);1;0
-CHARM_CTS;CTSCURPRJ;Current Project for Object Editing;1;0
-CHARM_CTS;CTSOBJLIST;CTS+ Object List: DB Main Persistence;1;0
-CHARM_CTS;CTSOBJLISTT;CTS+ Object List: DB Language Part Persistence;1;0
-CHARM_CTS;SI_RQ_CONTENT;Description of a file object;1;0
-CHARM_CTS;CTSOBJPROS;CTS+ Object List: DB Properties Persistence;1;0
-CHARM_CTS;CTSUSRCUST;User-Specific Setting in CTS;1;0
-CHARM_CTS;CTSPROJECT;Assignment of a CTS Project to an External Project;1;0
-CRM;CRMCONSUM;Possible Users of R/3 Adapter Functionality;1;0
-CRM;CRMRFCPAR;Definitions for RFC Connections;1;0
-CRM;COMM_IPC_URL;IPC - URL Definition for UI;1;0
-CRM;COMM_IPC_DEST;IPC Connection Data from RFC and URL;1;0
-CRM;CRMPAROLTP;CRM OLTP Parameters;1;0
-CRM;CRMPRLS;Name of the Logical System for Download;1;0
-CRMINERP;CRMRFCPAR;Definitions for RFC Connections;1;0
-CRMINERP;TBLSYSDEST;RFC Destination of Logical System;1;0
-CRMINERP;CRMPAROLTP;CRM OLTP Parameters;1;0
-CRMINERP;CRMPRLS;Name of the Logical System for Download;1;0
-CRMINERP;CRMCONSUM;Possible Users of R/3 Adapter Functionality;1;0
-CRMINERP;CRMKUNNR;Mapping Table Business Partner - Customer;1;0
-CRMINERP;CRMPARNR;Mapping Table Business Partner Relationship - Contact Person;1;0
-CRMINERP;TBE11;BTE Application Indicator (Activation);1;0
-CRM_ANALYTICS;CRMC_BI_REPORTS;BI Report Repository;1;0
-CRM_ANALYTICS;CRMC_BI_REPORTST;BI Report Repository Texts;1;0
-CRM_CUI_BAS;CRMC_IC_LTX_URL;Definition of URL based Launch Transactions;1;0
-CRM_CUI_BAS;CRMC_IC_LTX_URLT;Definition of URL based Launch Transactions;1;0
-CRM_CUI_BAS;CRMC_IC_BORADM;Administration of system settings for Business Objects;1;0
-CRM_CUI_BAS;CRMC_IC_BORADM_T;Text Table for the table CRMC_IC_BORADM;1;0
-CRM_CUI_COM;CRMC_BCB_CC;Communication Management Software Connections;1;0
-CRM_ERMS;CRMC_ER_SM_PDET;ERMS service manager profile determination;1;0
-CRM_ERMS;CRMC_ER_SM_PROF;ERMS: Service manager profiles;1;0
-CRM_ERMS;CRMC_ER_SM_SRV;ERMS: Service manager services;1;0
-CRM_ERMS;CRMC_ER_SM_PROP;ERMS: Service manager service properties;1;0
-CRM_ERMS;CRMC_ERMS_ATTR;ERMS Attributes;1;0
-CRM_ERMS;CRMC_ER_WB_ACT;E-Mail Workbench event handler table mappings desc.;1;0
-CRM_ERMS;CRMC_ERMS_ACCP;Action and Action parameters for Rule policies Call;1;0
-CRM_ERMS;CRMC_ERMS_ACTN;ERMS Actions Repository;1;0
-CRM_ERMS;CRMC_ERMS_ACTP;ERMS Action Parameters;1;0
-CRM_ERMS;CRMC_IC_AUIADDR;AUI: Email adresses and fax numbers;1;0
-CRM_ERMS;CRMC_IC_AUIADDRT;Address maintenance;1;0
-CRM_ERMS;CRMC_IM_ADRESS;Marketing: E-Mail Addresses;1;0
-CRM_ERMS;CRMC_IM_ADRESS_T;Marketing: Texts for E-Mail Addresses;1;0
-CRM_IC;CRMC_IC_ERPPROF;Profile of the ERP Sales Order in the IC WebClient;1;0
-CRM_IC;CRMC_IC_LOGROL;CRM AIC Filter logical systems by business role;1;0
-CRM_IC;CRMC_IC_WCNT;IC Work Client;1;0
-CRM_IC;CRMC_IC_WCNT_T;IC Work Client Description;1;0
-CRM_IC;CCMC_ABLOGSYS;Action Box: Logical systems available for remote execution;1;0
-CRM_MARKET;CRMC_IM_NL_WSHOP;Newsletter: URL for the Subscribe/Unsubscribe;1;0
-CRM_MARKET;CRMC_IM_ADRESS;Marketing: E-Mail Addresses;1;0
-CRM_MARKET;CRMC_IM_ADRESS_T;Marketing: Texts for E-Mail Addresses;1;0
-CRM_MISC;CRMD_KW_PLM;Settings for Integrating PLM DMS in CRM CM;1;0
-CRM_MISC;CRMC_ERMS_CAN_CU;Content Analysis - Customizing;1;0
-CRM_MISC;CRMC_ERMS_RFC;RFC Destinations for Schema Import;1;0
-CRM_MISC;CRMC_ERMS_RFC_T;Text Table for CRMC_ERMS_RFC;1;0
-CRM_MISC;COMM_IPC_DEST;IPC Connection Data from RFC and URL;1;0
-CRM_MISC;COMM_IPC_URL;IPC - URL Definition for UI;1;0
-CRM_MISC;CRM_ISUC_GR_DEST;RFC Destination for Access to IS-U Grid Management;1;0
-CRM_SERVICE;CRM_LRP_RFC_CON;RFC Connection to External Scheduling Engine;1;0
-CTE;CTE_C_CONFIG_ALL;Configuration settings for all Concur systems;1;0
-CTE;CTE_C_CONFIG_SET;Configuration settings for Concur integration;1;0
-CTE;CTE_C_FIELD_CODE;Code Mapping for field mapping between SAP ERP and Concur;1;0
-CTE;CTE_C_FIELD_MAP;Field mapping between SAP ERP and concur;1;0
-CTE;CTE_C_LOCALE;Default Locales;1;0
-CTE;CTE_D_COM_LOG;Communication LOG;1;0
-CTE;CTE_C_TAX_MAP;Concur Financial Integration: Tax jurisdiction code mapping;1;0
-CTE;CTE_D_COM_LOG_AK;Communication LOG  Financial Acknowledgement;1;0
-CTE;CTE_D_COM_LOG_PT;Communication LOG  Financial Posting;1;0
-CTE;CTE_C_FG_COS_MAP;Field mapping of cost assignm. of FGM between SAP and Concur;1;0
-CTE;CTE_C_FG_REL_VAL;Relevant filter values for FGM Post;1;0
-CTE;CTE_D_CHG_LOG_FG;Change Log for Customer Changes;1;0
-CTE;CTE_D_COM_LOG_FG;Communication LOG  Funds and Grants Management;1;0
-CTE;CTE_D_COM_LOG_FK;Communication LOG  Funds and Grants Management Acknowledge;1;0
-CTE;CTE_D_COM_LOG_FN;Communication LOG  Funds and Grants Management Confirmation;1;0
-CTE;CTE_D_CONF_FG;Funds and Grants Management Confirmation;1;0
-CTE;CTE_D_CON_MSG_FG;Feedback Loop Messages Funds and Grants Management;1;0
-CTE;CTE_D_FGM_ATTR;OBSOLETE - Funds and Grants Management Document Attributes;1;0
-CTE;CTE_D_FGM_PT_CON;Funds and Grants Management Document Content;1;0
-CTE;CTE_D_FGM_PT_DOC;Funds and Grants Management Documents;1;0
-CTE;CTE_D_LOG_TRA_FG;Funds and Grants Management Log Trace;1;0
-CTE;CTE_C_CONNECTION;Connection information for Concur systems;1;0
-CTE;CTE_C_COST_MAP;Field mapping of cost assignm. of ER between SAP and concur;1;0
-CTE;CTE_C_COST_OBJ_H;Cost Object Hierarchy;1;0
-CTE;CTE_C_EXCL_S_CC;Exclude from Export: Single Cost Center;1;0
-CTE;CTE_C_EXCL_S_EE1;Exclude from Export: Single Employee (1 = Central Person);1;0
-CTE;CTE_C_EXCL_S_EE2;Exclude from Export: Single Employee (2 = PersonID Infty709);1;0
-CTE;CTE_C_EXCL_S_EE3;Exclude from Export: Single Employee (3 = Personnel Number);1;0
-CTE;CTE_C_EXCL_S_IO;Exclude from Export: Single Internal Order;1;0
-CTE;CTE_C_EXCL_S_NA;Exclude from Export: Single Network Activity;1;0
-CTE;CTE_C_EXCL_S_NW;Exclude from Export: Single Network;1;0
-CTE;CTE_C_EXCL_S_PJ;Exclude from Export: Single Project WBS Element;1;0
-CTE;CTE_C_EXCL_S_SO;Exclude from Export: Single Sales Order;1;0
-CTE;CTE_C_EXCL_S_VD;Exclude from Export: Single vendors;1;0
-CTE;CTE_C_RELEV_VAL;Relevant filter values for fin posting;1;0
-CTE;CTE_C_ROLLOUT_CC;Phased rollout: Cost Center generically;1;0
-CTE;CTE_C_ROLLOUT_EE;Phased rollout: Employees generically;1;0
-CTE;CTE_C_ROLLOUT_IO;Phased rollout: Internal Order generically;1;0
-CTE;CTE_C_ROLLOUT_NA;Phased rollout: Network Activity generically;1;0
-CTE;CTE_C_ROLLOUT_NW;Phased rollout: Network (Header) generically;1;0
-CTE;CTE_C_ROLLOUT_PJ;Phased rollout: Project WBS Element generically;1;0
-CTE;CTE_C_ROLLOUT_PO;Phased rollout: Purchase orders generically;1;0
-CTE;CTE_C_ROLLOUT_SO;Phased rollout: Sales Order generically;1;0
-CTE;CTE_C_ROLLOUT_VD;Phased rollout: Vendors generically;1;0
-CTE;CTE_C_ROLL_S_CC;Phased rollout: Single Cost Center;1;0
-CTE;CTE_C_ROLL_S_EE1;Phased rollout: Single Employee (1 = Central Person);1;0
-CTE;CTE_C_ROLL_S_EE2;Phased rollout: Single Employee (2 = Person ID Infotype 709);1;0
-CTE;CTE_C_ROLL_S_EE3;Phased rollout: Single Employee (3 = Personnel Number);1;0
-CTE;CTE_C_ROLL_S_IO;Phased rollout: Single Internal Order;1;0
-CTE;CTE_C_ROLL_S_NA;Phased rollout: Single Network Activity;1;0
-CTE;CTE_C_ROLL_S_NW;Phased rollout: Single Network;1;0
-CTE;CTE_C_ROLL_S_PJ;Phased rollout: Single Project WBS Element;1;0
-CTE;CTE_C_ROLL_S_PO;Phased rollout: Single purchase orders;1;0
-CTE;CTE_C_ROLL_S_SO;Phased rollout: Single Sales Order;1;0
-CTE;CTE_D_ACC_ATTR;Accounting Documents Attributes;1;0
-CTE;CTE_D_ACTION_LOG;Concur Action Log;1;0
-CTE;CTE_D_CHANGE_LOG;Change Log for customer changes;1;0
-CTE;CTE_D_COM_LOG_CC;Communication LOG  Cost Center;1;0
-CTE;CTE_D_COM_LOG_CF;Communication LOG  Financial Confirmation;1;0
-CTE;CTE_D_COM_LOG_EE;Communication LOG  Employee;1;0
-CTE;CTE_D_COM_LOG_IO;Communication LOG  Internal Order;1;0
-CTE;CTE_D_COM_LOG_NA;Communication LOG  Network Activity;1;0
-CTE;CTE_D_COM_LOG_NW;Communication LOG  Network;1;0
-CTE;CTE_D_COM_LOG_PJ;Communication LOG  Project;1;0
-CTE;CTE_D_COM_LOG_PO;Communication LOG  Purchase Order;1;0
-CTE;CTE_D_COM_LOG_SO;Communication LOG  Sales Order;1;0
-CTE;CTE_D_COM_LOG_VD;Communication LOG  Vendor;1;0
-CTE;CTE_D_CONF;Confirmation;1;0
-CTE;CTE_D_CONF_MSG;Feedback Loop Messages;1;0
-CTE;CTE_D_EE_LOGINID;Assignment of Employee Object ID to Employee Login ID;1;0
-CTE;CTE_D_FIN_PT_CON;Posting Document Content;1;0
-CTE;CTE_D_FIN_PT_DOC;Posting Documents;1;0
-CTE;CTE_D_LISTAPI_CC;List API;1;0
-CTE;CTE_D_LISTAPI_IO;List API;1;0
-CTE;CTE_D_LISTAPI_NA;List API;1;0
-CTE;CTE_D_LISTAPI_NW;List API;1;0
-CTE;CTE_D_LISTAPI_PJ;List API;1;0
-CTE;CTE_D_LISTAPI_SO;List API;1;0
-CTE;CTE_D_LOG_TRACE;Posting Log Trace;1;0
-CTE;CTE_D_REPL_QUEUE;Replication Queue for Concur integration (failed, future);1;0
-CTE;CTE_C_DEVIAT_CUR;Deviating currency handling;1;0
-CTE;CTE_C_FORM_FLDS;Concur form fields;1;0
-CTE;CTE_D_LOG_HTTP;Log table for http traffic;1;0
-CTE;CTE_D_TRANS;Transformation result table which transformation is done;1;0
-CTE;CTE_D_CHG_LOG_XX;Change Log for customer changes (Payroll);1;0
-CTE;CTE_D_COM_LOG_PC;Communication LOG Payment Confirmation;1;0
-CTE;CTE_D_DOC_AT_WL;Documents for which attachments should be fetched;1;0
-CTE;CTE_D_DOC_BLOCK;Documents which are blocked;1;0
-CTE;CTE_D_DOC_DUMP;Documents with potential short dump;1;0
-CTE;CTE_D_PAYMENT;Table for Payment Information;1;0
-CTE;CTE_C_POST_CHECK;Table to de/activate Checks;1;0
-CTE;CTE_D_DELTA_MAP;Map EntryID to original ReversalEntryID (Delta Posting);1;0
-CTE;CTE_D_DOC_AT;Document Attachments;1;0
-CTE;CTE_D_DOC_AT_WLD;Attachment Worklist for Delta Documents;1;0
-CTE;CTE_C_COBJ_CONF;Cost Object System Configuration;1;0
-CTE;CTE_C_CUST_FIELD;Cost Object Hierarchy Customer Fields;1;0
-CTE;CTE_C_EXCL_S_MO;Exclude from Export: Single Maintenance Order;1;0
-CTE;CTE_C_EXCL_S_PP;Exclude from Export: Single PP Production Order;1;0
-CTE;CTE_C_EXCL_S_QM;Exclude from Export: Single QM Order;1;0
-CTE;CTE_C_ROLLOUT_MO;Phased rollout: Maintenance Order generically;1;0
-CTE;CTE_C_ROLLOUT_PP;Phased rollout: PP Production Order generically;1;0
-CTE;CTE_C_ROLLOUT_QM;Phased rollout: QM Order generically;1;0
-CTE;CTE_C_ROLL_S_MO;Phased rollout: Single Maintenance Order;1;0
-CTE;CTE_C_ROLL_S_PP;Phased rollout: Single PP Production Order;1;0
-CTE;CTE_C_ROLL_S_QM;Phased rollout: Single QM Order;1;0
-CTE;CTE_D_COM_LOG_MO;Communication LOG  Maintenance Order;1;0
-CTE;CTE_D_COM_LOG_PP;Communication LOG PP Production Order;1;0
-CTE;CTE_D_COM_LOG_QM;Communication LOG QM Order;1;0
-CTE;CTE_D_LISTAPI_MO;List API Maintenance Order;1;0
-CTE;CTE_D_LISTAPI_PP;List API PP Production Order;1;0
-CTE;CTE_D_LISTAPI_QM;List API QM Order;1;0
-CTE;CTE_D_LIST_M_CC;List API for Cost Center with multiple occurrence;1;0
-CTE;CTE_D_LIST_M_IO;List API for Internal Order with multiple occurrence;1;0
-CTE;CTE_D_LIST_M_MO;List API for Maintenance Order with multiple occurrence;1;0
-CTE;CTE_D_LIST_M_NA;List API for Network Activity with multiple occurrence;1;0
-CTE;CTE_D_LIST_M_NW;List API for Network with multiple occurrence;1;0
-CTE;CTE_D_LIST_M_PJ;List API for Project with multiple occurrence;1;0
-CTE;CTE_D_LIST_M_PP;List API for PP Production Order with multiple occurrence;1;0
-CTE;CTE_D_LIST_M_QM;List API for QM Order with multiple occurrence;1;0
-CTE;CTE_D_LIST_M_SO;List API for Sales Order with multiple occurrence;1;0
-CTE;CTE_C_AD_REL_VAL;Relevant filter values for fin posting of Cash Advances;1;0
-CTE;CTE_D_FIN_EVENT;stores Payment Events from SAP FI;1;0
-CTE;CTE_D_FIN_PAY;Payment Information for Line Item of Financial Document;1;0
-CTE;CTE_C_PY_REL_VAL;Relevant filter values for payroll posting;1;0
-CTE;CTE_D_CHG_LOG_PY;Change Log for customer changes (Payroll);1;0
-CTE;CTE_D_COM_LOG_PF;Communication LOG  Payroll Confirmation;1;0
-CTE;CTE_D_COM_LOG_PK;Communication LOG  Payroll Acknowledgement;1;0
-CTE;CTE_D_COM_LOG_PY;Communication LOG  Payroll Posting;1;0
-CTE;CTE_D_CONF_PY;Payroll Confirmation;1;0
-CTE;CTE_D_CON_MSG_PY;Feedback Loop Messages Payroll;1;0
-CTE;CTE_D_HCM_PT_CON;Posting Document Content;1;0
-CTE;CTE_D_HCM_PT_DOC;Posting Documents;1;0
-CTE;CTE_D_LOG_TRA_PY;Payroll Posting Log Trace;1;0
-CTE;CTE_D_PY_ATTR;Payroll Document Attributes;1;0
-CTE;CTE_C_EXCL_S_VD2;Exclude from Export: Single vendors with company code;1;0
-CTE;CTE_C_INV_COSMAP;Field mapping of cost assignm. of IV between SAP and concur;1;0
-CTE;CTE_C_INV_RELVAL;Relevant filter values for posting of invoices;1;0
-CTE;CTE_C_PO_COSTMAP;Purchase order cost object mapping;1;0
-CTE;CTE_C_ROLL_S_VD2;Phased rollout: Single vendors with company code;1;0
-CTE;CTE_D_CHG_LOG_IV;Change Log for customer changes (Invoice);1;0
-CTE;CTE_D_COM_LOG_IF;Communication LOG  Invoice Confirmation;1;0
-CTE;CTE_D_COM_LOG_IK;Communication LOG  Invoice Acknowledgement;1;0
-CTE;CTE_D_COM_LOG_IV;Communication LOG  Invoice Posting;1;0
-CTE;CTE_D_CONF_INV;Invoice Confirmation;1;0
-CTE;CTE_D_CON_MSG_IV;Feedback Loop Messages Invoice;1;0
-CTE;CTE_D_INV_ATTR;Invoice Document Attributes;1;0
-CTE;CTE_D_INV_PT_CON;Invoice Document Content;1;0
-CTE;CTE_D_INV_PT_DOC;Invoice Documents;1;0
-CTE;CTE_D_LOG_TRA_IV;Invoice Posting Log Trace;1;0
-CTE;CTE_D_MON_RUN;Message Monitoring Run;1;0
-CTE;CTE_C_BLOCK_MSG;Table for messages which triggers a block for a document;1;0
-CTE;CTE_C_RT_BU;Active Company Codes for Receipt;1;0
-CTE;CTE_D_DOC_AT_ITM;Document Attachments itemization;1;0
-CTE;CTE_D_RT_CON;Content table for receipts;1;0
-CTE;CTE_D_RT_DATA;Table for receipt attachments;1;0
-CTE;CTE_D_RT_DOC;Table for receipts;1;0
-CTE;CTE_D_RT_REL;Table for relation between Concur document and receipt;1;0
-CTE;CTE_D_RT_WL;Documents for which receipts should be fetched;1;0
-CTE;CTE_C_SECTIONMAP;Table for section mapping;1;0
-CTE;CTE_C_SPLIT_BU;Company codes for which a FI document per entry will be crea;1;0
-CTE;CTE_D_CONFIG_LOG;Log table for configuration changes;1;0
-CTE;CTE_D_EVENT_PARA;Parameters for background processing events;1;0
-CTE;CTE_D_TRANS_INDE;Transformation result for system independent transformation;1;0
-CTE;CTE_D_FIN_I_ALOC;SubVal Importing table - Allocation;1;0
-CTE;CTE_D_FIN_I_EMPL;SubVal Importing table - Employee;1;0
-CTE;CTE_D_FIN_I_ENTR;SubVal Importing table - Entry;1;0
-CTE;CTE_D_FIN_I_GLOB;SubVal Importing table - Gobal fields;1;0
-CTE;CTE_D_FIN_I_JOUR;SubVal Importing table - Journal;1;0
-CTE;CTE_D_FIN_I_REPO;SubVal Importing table - Report;1;0
-CTE;CTE_D_FIN_T_ITEM;Target Item mapping table;1;0
-CTE;CTE_C_EE_FLD_COD;Code Mapping for V4 field mapping between SAP ERP and Concur;1;0
-CTE;CTE_C_EE_FLD_MAP;Employee V4 field mapping - Field Mapping;1;0
-CTE;CTE_C_EE_SEC_MAP;Employee V4 field mapping – Section Mapping;1;0
-CTE;CTE_D_BULK_TO_EE;Users that are currently being process;1;0
-CTE;CTE_D_COM_LOG_EF;Communication LOG  Expense Report Obligation Confirmation;1;0
-CTE;CTE_D_COM_LOG_EK;Communication LOG  Expense Report Obligation Acknowledge;1;0
-CTE;CTE_D_COM_LOG_EO;Communication LOG  Expense Report Obligation;1;0
-CTE;CTE_D_CONF_EO;Funds and Grants Management Confirmation;1;0
-CTE;CTE_D_CON_MSG_EO;Feedback Loop Messages Funds and Grants Management (EO);1;0
-CTE;CTE_D_ERO_INST_D;Table for FGM instruction;1;0
-CTE;CTE_D_ERO_PT_CON;FGM Expense Report Obligation Document Content;1;0
-CTE;CTE_D_ERO_PT_DOC;FGM Expense Report Obligation Documents;1;0
-CTE;CTE_D_FGM_ATTR_E;OBSOLETE - Funds and Grants Management Document Attr Entries;1;0
-CTE;CTE_D_FGM_INST_D;Table for FGM instruction for TR;1;0
-CTE;CTE_D_FGM_P_ATTR;Funds and Grants Management Document Attributes;1;0
-CTE;CTE_D_FGM_P_REF;Found and Grants Management - document references;1;0
-CTE;CTE_D_LOG_TRA_EO;Funds and Grants Management Log Trace;1;0
-CTE;CTE_D_PY_HIST;table for posting documents for older revision numbers;1;0
-CTE;CTE_C_ROLLOUT_EX;Phased rollout: Exchange Rates;1;0
-CTE;CTE_C_ROLL_S_VD;Phased rollout: Single vendors;1;0
-CTE;CTE_D_CM_EAG_L;Aggregated Error Messages for list structure;1;0
-CTE;CTE_D_CM_EOBJ_L;Message object for list structure;1;0
-CTE;CTE_D_CM_ERR_ADD;Additional information for System Monitoring;1;0
-CTE;CTE_D_CM_ERR_AG;Aggregated Error Message for System Monitoring;1;0
-CTE;CTE_D_CM_ERR_OBJ;Message object for System Monitoring;1;0
-CTE;CTE_D_CM_OBJ;Result Table for replicated Cost Objects not failed;1;0
-CTE;CTE_D_CM_OBJ_L;Result Table for replicated Cost Objects not failed List;1;0
-CTE;CTE_D_CM_RES;Result Table for System Monitor;1;0
-CTE;CTE_D_CM_RES_L;Result Table for System Monitor List Structure;1;0
-CTE;CTE_D_COM_LOG_EX;Communication LOG for Exchange Rate;1;0
-CTE;CTE_D_FIN_I_MILE;SubVal Importing table - Mileage;1;0
+CHARM_CTS;CTS_APPLTYPE;CTS: Supported values for application types;0;0
+CHARM_CTS;CTS_APPLTYPET;CTS: Text for supported application types (CTS_APPLTYPE);0;0
+CHARM_CTS;CTS_EXT_PS;External Project Systems;0;0
+CHARM_CTS;CTS_EXT_PT;Text Description of External Project Systems;0;0
+CHARM_CTS;CTS_FILELOCK;ECTS: File Locking for Upload;0;0
+CHARM_CTS;CTS_PRSTAT;Project Status Switch for CTS Projects;0;0
+CHARM_CTS;CTS_PRSW;Status Switch for Projects;0;0
+CHARM_CTS;CTS_PRSWT;Status Switch for Projects;0;0
+CHARM_CTS;CTS_PV_ALL;Upgrade Paths: PPMS Planned Data;0;0
+CHARM_CTS;CTS_PV_CMP;Upgrade Paths: PPMS Planned Data: Compatibility of Prd. Ver.;0;0
+CHARM_CTS;CTS_PV_PPP;PPMS Planned Data: Product Versions, Support Packages, PIs;0;0
+CHARM_CTS;CTS_RQ_APPLID;CTS:Possible values for application types;0;0
+CHARM_CTS;CTS_RQ_APPLIDT;CTS: Text table for application values (CTS_RQ_APPLID);0;0
+CHARM_CTS;CTSCURPRJ;Current Project for Object Editing;0;0
+CHARM_CTS;CTSOBJLIST;CTS+ Object List: DB Main Persistence;0;0
+CHARM_CTS;CTSOBJLISTT;CTS+ Object List: DB Language Part Persistence;0;0
+CHARM_CTS;SI_RQ_CONTENT;Description of a file object;0;0
+CHARM_CTS;CTSOBJPROS;CTS+ Object List: DB Properties Persistence;0;0
+CHARM_CTS;CTSUSRCUST;User-Specific Setting in CTS;0;0
+CHARM_CTS;CTSPROJECT;Assignment of a CTS Project to an External Project;0;0
+CRM;CRMCONSUM;Possible Users of R/3 Adapter Functionality;0;0
+CRM;CRMRFCPAR;Definitions for RFC Connections;0;0
+CRM;COMM_IPC_URL;IPC - URL Definition for UI;0;0
+CRM;COMM_IPC_DEST;IPC Connection Data from RFC and URL;0;0
+CRM;CRMPAROLTP;CRM OLTP Parameters;0;0
+CRM;CRMPRLS;Name of the Logical System for Download;0;0
+CRMINERP;CRMRFCPAR;Definitions for RFC Connections;0;0
+CRMINERP;TBLSYSDEST;RFC Destination of Logical System;0;0
+CRMINERP;CRMPAROLTP;CRM OLTP Parameters;0;0
+CRMINERP;CRMPRLS;Name of the Logical System for Download;0;0
+CRMINERP;CRMCONSUM;Possible Users of R/3 Adapter Functionality;0;0
+CRMINERP;CRMKUNNR;Mapping Table Business Partner - Customer;0;0
+CRMINERP;CRMPARNR;Mapping Table Business Partner Relationship - Contact Person;0;0
+CRMINERP;TBE11;BTE Application Indicator (Activation);0;0
+CRM_ANALYTICS;CRMC_BI_REPORTS;BI Report Repository;0;0
+CRM_ANALYTICS;CRMC_BI_REPORTST;BI Report Repository Texts;0;0
+CRM_CUI_BAS;CRMC_IC_LTX_URL;Definition of URL based Launch Transactions;0;0
+CRM_CUI_BAS;CRMC_IC_LTX_URLT;Definition of URL based Launch Transactions;0;0
+CRM_CUI_BAS;CRMC_IC_BORADM;Administration of system settings for Business Objects;0;0
+CRM_CUI_BAS;CRMC_IC_BORADM_T;Text Table for the table CRMC_IC_BORADM;0;0
+CRM_CUI_COM;CRMC_BCB_CC;Communication Management Software Connections;0;0
+CRM_ERMS;CRMC_ER_SM_PDET;ERMS service manager profile determination;0;0
+CRM_ERMS;CRMC_ER_SM_PROF;ERMS: Service manager profiles;0;0
+CRM_ERMS;CRMC_ER_SM_SRV;ERMS: Service manager services;0;0
+CRM_ERMS;CRMC_ER_SM_PROP;ERMS: Service manager service properties;0;0
+CRM_ERMS;CRMC_ERMS_ATTR;ERMS Attributes;0;0
+CRM_ERMS;CRMC_ER_WB_ACT;E-Mail Workbench event handler table mappings desc.;0;0
+CRM_ERMS;CRMC_ERMS_ACCP;Action and Action parameters for Rule policies Call;0;0
+CRM_ERMS;CRMC_ERMS_ACTN;ERMS Actions Repository;0;0
+CRM_ERMS;CRMC_ERMS_ACTP;ERMS Action Parameters;0;0
+CRM_ERMS;CRMC_IC_AUIADDR;AUI: Email adresses and fax numbers;0;0
+CRM_ERMS;CRMC_IC_AUIADDRT;Address maintenance;0;0
+CRM_ERMS;CRMC_IM_ADRESS;Marketing: E-Mail Addresses;0;0
+CRM_ERMS;CRMC_IM_ADRESS_T;Marketing: Texts for E-Mail Addresses;0;0
+CRM_IC;CRMC_IC_ERPPROF;Profile of the ERP Sales Order in the IC WebClient;0;0
+CRM_IC;CRMC_IC_LOGROL;CRM AIC Filter logical systems by business role;0;0
+CRM_IC;CRMC_IC_WCNT;IC Work Client;0;0
+CRM_IC;CRMC_IC_WCNT_T;IC Work Client Description;0;0
+CRM_IC;CCMC_ABLOGSYS;Action Box: Logical systems available for remote execution;0;0
+CRM_MARKET;CRMC_IM_NL_WSHOP;Newsletter: URL for the Subscribe/Unsubscribe;0;0
+CRM_MARKET;CRMC_IM_ADRESS;Marketing: E-Mail Addresses;0;0
+CRM_MARKET;CRMC_IM_ADRESS_T;Marketing: Texts for E-Mail Addresses;0;0
+CRM_MISC;CRMD_KW_PLM;Settings for Integrating PLM DMS in CRM CM;0;0
+CRM_MISC;CRMC_ERMS_CAN_CU;Content Analysis - Customizing;0;0
+CRM_MISC;CRMC_ERMS_RFC;RFC Destinations for Schema Import;0;0
+CRM_MISC;CRMC_ERMS_RFC_T;Text Table for CRMC_ERMS_RFC;0;0
+CRM_MISC;COMM_IPC_DEST;IPC Connection Data from RFC and URL;0;0
+CRM_MISC;COMM_IPC_URL;IPC - URL Definition for UI;0;0
+CRM_MISC;CRM_ISUC_GR_DEST;RFC Destination for Access to IS-U Grid Management;0;0
+CRM_SERVICE;CRM_LRP_RFC_CON;RFC Connection to External Scheduling Engine;0;0
+CTE;CTE_C_CONFIG_ALL;Configuration settings for all Concur systems;0;0
+CTE;CTE_C_CONFIG_SET;Configuration settings for Concur integration;0;0
+CTE;CTE_C_FIELD_CODE;Code Mapping for field mapping between SAP ERP and Concur;0;0
+CTE;CTE_C_FIELD_MAP;Field mapping between SAP ERP and concur;0;0
+CTE;CTE_C_LOCALE;Default Locales;0;0
+CTE;CTE_D_COM_LOG;Communication LOG;0;0
+CTE;CTE_C_TAX_MAP;Concur Financial Integration: Tax jurisdiction code mapping;0;0
+CTE;CTE_D_COM_LOG_AK;Communication LOG  Financial Acknowledgement;0;0
+CTE;CTE_D_COM_LOG_PT;Communication LOG  Financial Posting;0;0
+CTE;CTE_C_FG_COS_MAP;Field mapping of cost assignm. of FGM between SAP and Concur;0;0
+CTE;CTE_C_FG_REL_VAL;Relevant filter values for FGM Post;0;0
+CTE;CTE_D_CHG_LOG_FG;Change Log for Customer Changes;0;0
+CTE;CTE_D_COM_LOG_FG;Communication LOG  Funds and Grants Management;0;0
+CTE;CTE_D_COM_LOG_FK;Communication LOG  Funds and Grants Management Acknowledge;0;0
+CTE;CTE_D_COM_LOG_FN;Communication LOG  Funds and Grants Management Confirmation;0;0
+CTE;CTE_D_CONF_FG;Funds and Grants Management Confirmation;0;0
+CTE;CTE_D_CON_MSG_FG;Feedback Loop Messages Funds and Grants Management;0;0
+CTE;CTE_D_FGM_ATTR;OBSOLETE - Funds and Grants Management Document Attributes;0;0
+CTE;CTE_D_FGM_PT_CON;Funds and Grants Management Document Content;0;0
+CTE;CTE_D_FGM_PT_DOC;Funds and Grants Management Documents;0;0
+CTE;CTE_D_LOG_TRA_FG;Funds and Grants Management Log Trace;0;0
+CTE;CTE_C_CONNECTION;Connection information for Concur systems;0;0
+CTE;CTE_C_COST_MAP;Field mapping of cost assignm. of ER between SAP and concur;0;0
+CTE;CTE_C_COST_OBJ_H;Cost Object Hierarchy;0;0
+CTE;CTE_C_EXCL_S_CC;Exclude from Export: Single Cost Center;0;0
+CTE;CTE_C_EXCL_S_EE1;Exclude from Export: Single Employee (1 = Central Person);0;0
+CTE;CTE_C_EXCL_S_EE2;Exclude from Export: Single Employee (2 = PersonID Infty709);0;0
+CTE;CTE_C_EXCL_S_EE3;Exclude from Export: Single Employee (3 = Personnel Number);0;0
+CTE;CTE_C_EXCL_S_IO;Exclude from Export: Single Internal Order;0;0
+CTE;CTE_C_EXCL_S_NA;Exclude from Export: Single Network Activity;0;0
+CTE;CTE_C_EXCL_S_NW;Exclude from Export: Single Network;0;0
+CTE;CTE_C_EXCL_S_PJ;Exclude from Export: Single Project WBS Element;0;0
+CTE;CTE_C_EXCL_S_SO;Exclude from Export: Single Sales Order;0;0
+CTE;CTE_C_EXCL_S_VD;Exclude from Export: Single vendors;0;0
+CTE;CTE_C_RELEV_VAL;Relevant filter values for fin posting;0;0
+CTE;CTE_C_ROLLOUT_CC;Phased rollout: Cost Center generically;0;0
+CTE;CTE_C_ROLLOUT_EE;Phased rollout: Employees generically;0;0
+CTE;CTE_C_ROLLOUT_IO;Phased rollout: Internal Order generically;0;0
+CTE;CTE_C_ROLLOUT_NA;Phased rollout: Network Activity generically;0;0
+CTE;CTE_C_ROLLOUT_NW;Phased rollout: Network (Header) generically;0;0
+CTE;CTE_C_ROLLOUT_PJ;Phased rollout: Project WBS Element generically;0;0
+CTE;CTE_C_ROLLOUT_PO;Phased rollout: Purchase orders generically;0;0
+CTE;CTE_C_ROLLOUT_SO;Phased rollout: Sales Order generically;0;0
+CTE;CTE_C_ROLLOUT_VD;Phased rollout: Vendors generically;0;0
+CTE;CTE_C_ROLL_S_CC;Phased rollout: Single Cost Center;0;0
+CTE;CTE_C_ROLL_S_EE1;Phased rollout: Single Employee (1 = Central Person);0;0
+CTE;CTE_C_ROLL_S_EE2;Phased rollout: Single Employee (2 = Person ID Infotype 709);0;0
+CTE;CTE_C_ROLL_S_EE3;Phased rollout: Single Employee (3 = Personnel Number);0;0
+CTE;CTE_C_ROLL_S_IO;Phased rollout: Single Internal Order;0;0
+CTE;CTE_C_ROLL_S_NA;Phased rollout: Single Network Activity;0;0
+CTE;CTE_C_ROLL_S_NW;Phased rollout: Single Network;0;0
+CTE;CTE_C_ROLL_S_PJ;Phased rollout: Single Project WBS Element;0;0
+CTE;CTE_C_ROLL_S_PO;Phased rollout: Single purchase orders;0;0
+CTE;CTE_C_ROLL_S_SO;Phased rollout: Single Sales Order;0;0
+CTE;CTE_D_ACC_ATTR;Accounting Documents Attributes;0;0
+CTE;CTE_D_ACTION_LOG;Concur Action Log;0;0
+CTE;CTE_D_CHANGE_LOG;Change Log for customer changes;0;0
+CTE;CTE_D_COM_LOG_CC;Communication LOG  Cost Center;0;0
+CTE;CTE_D_COM_LOG_CF;Communication LOG  Financial Confirmation;0;0
+CTE;CTE_D_COM_LOG_EE;Communication LOG  Employee;0;0
+CTE;CTE_D_COM_LOG_IO;Communication LOG  Internal Order;0;0
+CTE;CTE_D_COM_LOG_NA;Communication LOG  Network Activity;0;0
+CTE;CTE_D_COM_LOG_NW;Communication LOG  Network;0;0
+CTE;CTE_D_COM_LOG_PJ;Communication LOG  Project;0;0
+CTE;CTE_D_COM_LOG_PO;Communication LOG  Purchase Order;0;0
+CTE;CTE_D_COM_LOG_SO;Communication LOG  Sales Order;0;0
+CTE;CTE_D_COM_LOG_VD;Communication LOG  Vendor;0;0
+CTE;CTE_D_CONF;Confirmation;0;0
+CTE;CTE_D_CONF_MSG;Feedback Loop Messages;0;0
+CTE;CTE_D_EE_LOGINID;Assignment of Employee Object ID to Employee Login ID;0;0
+CTE;CTE_D_FIN_PT_CON;Posting Document Content;0;0
+CTE;CTE_D_FIN_PT_DOC;Posting Documents;0;0
+CTE;CTE_D_LISTAPI_CC;List API;0;0
+CTE;CTE_D_LISTAPI_IO;List API;0;0
+CTE;CTE_D_LISTAPI_NA;List API;0;0
+CTE;CTE_D_LISTAPI_NW;List API;0;0
+CTE;CTE_D_LISTAPI_PJ;List API;0;0
+CTE;CTE_D_LISTAPI_SO;List API;0;0
+CTE;CTE_D_LOG_TRACE;Posting Log Trace;0;0
+CTE;CTE_D_REPL_QUEUE;Replication Queue for Concur integration (failed, future);0;0
+CTE;CTE_C_DEVIAT_CUR;Deviating currency handling;0;0
+CTE;CTE_C_FORM_FLDS;Concur form fields;0;0
+CTE;CTE_D_LOG_HTTP;Log table for http traffic;0;0
+CTE;CTE_D_TRANS;Transformation result table which transformation is done;0;0
+CTE;CTE_D_CHG_LOG_XX;Change Log for customer changes (Payroll);0;0
+CTE;CTE_D_COM_LOG_PC;Communication LOG Payment Confirmation;0;0
+CTE;CTE_D_DOC_AT_WL;Documents for which attachments should be fetched;0;0
+CTE;CTE_D_DOC_BLOCK;Documents which are blocked;0;0
+CTE;CTE_D_DOC_DUMP;Documents with potential short dump;0;0
+CTE;CTE_D_PAYMENT;Table for Payment Information;0;0
+CTE;CTE_C_POST_CHECK;Table to de/activate Checks;0;0
+CTE;CTE_D_DELTA_MAP;Map EntryID to original ReversalEntryID (Delta Posting);0;0
+CTE;CTE_D_DOC_AT;Document Attachments;0;0
+CTE;CTE_D_DOC_AT_WLD;Attachment Worklist for Delta Documents;0;0
+CTE;CTE_C_COBJ_CONF;Cost Object System Configuration;0;0
+CTE;CTE_C_CUST_FIELD;Cost Object Hierarchy Customer Fields;0;0
+CTE;CTE_C_EXCL_S_MO;Exclude from Export: Single Maintenance Order;0;0
+CTE;CTE_C_EXCL_S_PP;Exclude from Export: Single PP Production Order;0;0
+CTE;CTE_C_EXCL_S_QM;Exclude from Export: Single QM Order;0;0
+CTE;CTE_C_ROLLOUT_MO;Phased rollout: Maintenance Order generically;0;0
+CTE;CTE_C_ROLLOUT_PP;Phased rollout: PP Production Order generically;0;0
+CTE;CTE_C_ROLLOUT_QM;Phased rollout: QM Order generically;0;0
+CTE;CTE_C_ROLL_S_MO;Phased rollout: Single Maintenance Order;0;0
+CTE;CTE_C_ROLL_S_PP;Phased rollout: Single PP Production Order;0;0
+CTE;CTE_C_ROLL_S_QM;Phased rollout: Single QM Order;0;0
+CTE;CTE_D_COM_LOG_MO;Communication LOG  Maintenance Order;0;0
+CTE;CTE_D_COM_LOG_PP;Communication LOG PP Production Order;0;0
+CTE;CTE_D_COM_LOG_QM;Communication LOG QM Order;0;0
+CTE;CTE_D_LISTAPI_MO;List API Maintenance Order;0;0
+CTE;CTE_D_LISTAPI_PP;List API PP Production Order;0;0
+CTE;CTE_D_LISTAPI_QM;List API QM Order;0;0
+CTE;CTE_D_LIST_M_CC;List API for Cost Center with multiple occurrence;0;0
+CTE;CTE_D_LIST_M_IO;List API for Internal Order with multiple occurrence;0;0
+CTE;CTE_D_LIST_M_MO;List API for Maintenance Order with multiple occurrence;0;0
+CTE;CTE_D_LIST_M_NA;List API for Network Activity with multiple occurrence;0;0
+CTE;CTE_D_LIST_M_NW;List API for Network with multiple occurrence;0;0
+CTE;CTE_D_LIST_M_PJ;List API for Project with multiple occurrence;0;0
+CTE;CTE_D_LIST_M_PP;List API for PP Production Order with multiple occurrence;0;0
+CTE;CTE_D_LIST_M_QM;List API for QM Order with multiple occurrence;0;0
+CTE;CTE_D_LIST_M_SO;List API for Sales Order with multiple occurrence;0;0
+CTE;CTE_C_AD_REL_VAL;Relevant filter values for fin posting of Cash Advances;0;0
+CTE;CTE_D_FIN_EVENT;stores Payment Events from SAP FI;0;0
+CTE;CTE_D_FIN_PAY;Payment Information for Line Item of Financial Document;0;0
+CTE;CTE_C_PY_REL_VAL;Relevant filter values for payroll posting;0;0
+CTE;CTE_D_CHG_LOG_PY;Change Log for customer changes (Payroll);0;0
+CTE;CTE_D_COM_LOG_PF;Communication LOG  Payroll Confirmation;0;0
+CTE;CTE_D_COM_LOG_PK;Communication LOG  Payroll Acknowledgement;0;0
+CTE;CTE_D_COM_LOG_PY;Communication LOG  Payroll Posting;0;0
+CTE;CTE_D_CONF_PY;Payroll Confirmation;0;0
+CTE;CTE_D_CON_MSG_PY;Feedback Loop Messages Payroll;0;0
+CTE;CTE_D_HCM_PT_CON;Posting Document Content;0;0
+CTE;CTE_D_HCM_PT_DOC;Posting Documents;0;0
+CTE;CTE_D_LOG_TRA_PY;Payroll Posting Log Trace;0;0
+CTE;CTE_D_PY_ATTR;Payroll Document Attributes;0;0
+CTE;CTE_C_EXCL_S_VD2;Exclude from Export: Single vendors with company code;0;0
+CTE;CTE_C_INV_COSMAP;Field mapping of cost assignm. of IV between SAP and concur;0;0
+CTE;CTE_C_INV_RELVAL;Relevant filter values for posting of invoices;0;0
+CTE;CTE_C_PO_COSTMAP;Purchase order cost object mapping;0;0
+CTE;CTE_C_ROLL_S_VD2;Phased rollout: Single vendors with company code;0;0
+CTE;CTE_D_CHG_LOG_IV;Change Log for customer changes (Invoice);0;0
+CTE;CTE_D_COM_LOG_IF;Communication LOG  Invoice Confirmation;0;0
+CTE;CTE_D_COM_LOG_IK;Communication LOG  Invoice Acknowledgement;0;0
+CTE;CTE_D_COM_LOG_IV;Communication LOG  Invoice Posting;0;0
+CTE;CTE_D_CONF_INV;Invoice Confirmation;0;0
+CTE;CTE_D_CON_MSG_IV;Feedback Loop Messages Invoice;0;0
+CTE;CTE_D_INV_ATTR;Invoice Document Attributes;0;0
+CTE;CTE_D_INV_PT_CON;Invoice Document Content;0;0
+CTE;CTE_D_INV_PT_DOC;Invoice Documents;0;0
+CTE;CTE_D_LOG_TRA_IV;Invoice Posting Log Trace;0;0
+CTE;CTE_D_MON_RUN;Message Monitoring Run;0;0
+CTE;CTE_C_BLOCK_MSG;Table for messages which triggers a block for a document;0;0
+CTE;CTE_C_RT_BU;Active Company Codes for Receipt;0;0
+CTE;CTE_D_DOC_AT_ITM;Document Attachments itemization;0;0
+CTE;CTE_D_RT_CON;Content table for receipts;0;0
+CTE;CTE_D_RT_DATA;Table for receipt attachments;0;0
+CTE;CTE_D_RT_DOC;Table for receipts;0;0
+CTE;CTE_D_RT_REL;Table for relation between Concur document and receipt;0;0
+CTE;CTE_D_RT_WL;Documents for which receipts should be fetched;0;0
+CTE;CTE_C_SECTIONMAP;Table for section mapping;0;0
+CTE;CTE_C_SPLIT_BU;Company codes for which a FI document per entry will be crea;0;0
+CTE;CTE_D_CONFIG_LOG;Log table for configuration changes;0;0
+CTE;CTE_D_EVENT_PARA;Parameters for background processing events;0;0
+CTE;CTE_D_TRANS_INDE;Transformation result for system independent transformation;0;0
+CTE;CTE_D_FIN_I_ALOC;SubVal Importing table - Allocation;0;0
+CTE;CTE_D_FIN_I_EMPL;SubVal Importing table - Employee;0;0
+CTE;CTE_D_FIN_I_ENTR;SubVal Importing table - Entry;0;0
+CTE;CTE_D_FIN_I_GLOB;SubVal Importing table - Gobal fields;0;0
+CTE;CTE_D_FIN_I_JOUR;SubVal Importing table - Journal;0;0
+CTE;CTE_D_FIN_I_REPO;SubVal Importing table - Report;0;0
+CTE;CTE_D_FIN_T_ITEM;Target Item mapping table;0;0
+CTE;CTE_C_EE_FLD_COD;Code Mapping for V4 field mapping between SAP ERP and Concur;0;0
+CTE;CTE_C_EE_FLD_MAP;Employee V4 field mapping - Field Mapping;0;0
+CTE;CTE_C_EE_SEC_MAP;Employee V4 field mapping – Section Mapping;0;0
+CTE;CTE_D_BULK_TO_EE;Users that are currently being process;0;0
+CTE;CTE_D_COM_LOG_EF;Communication LOG  Expense Report Obligation Confirmation;0;0
+CTE;CTE_D_COM_LOG_EK;Communication LOG  Expense Report Obligation Acknowledge;0;0
+CTE;CTE_D_COM_LOG_EO;Communication LOG  Expense Report Obligation;0;0
+CTE;CTE_D_CONF_EO;Funds and Grants Management Confirmation;0;0
+CTE;CTE_D_CON_MSG_EO;Feedback Loop Messages Funds and Grants Management (EO);0;0
+CTE;CTE_D_ERO_INST_D;Table for FGM instruction;0;0
+CTE;CTE_D_ERO_PT_CON;FGM Expense Report Obligation Document Content;0;0
+CTE;CTE_D_ERO_PT_DOC;FGM Expense Report Obligation Documents;0;0
+CTE;CTE_D_FGM_ATTR_E;OBSOLETE - Funds and Grants Management Document Attr Entries;0;0
+CTE;CTE_D_FGM_INST_D;Table for FGM instruction for TR;0;0
+CTE;CTE_D_FGM_P_ATTR;Funds and Grants Management Document Attributes;0;0
+CTE;CTE_D_FGM_P_REF;Found and Grants Management - document references;0;0
+CTE;CTE_D_LOG_TRA_EO;Funds and Grants Management Log Trace;0;0
+CTE;CTE_D_PY_HIST;table for posting documents for older revision numbers;0;0
+CTE;CTE_C_ROLLOUT_EX;Phased rollout: Exchange Rates;0;0
+CTE;CTE_C_ROLL_S_VD;Phased rollout: Single vendors;0;0
+CTE;CTE_D_CM_EAG_L;Aggregated Error Messages for list structure;0;0
+CTE;CTE_D_CM_EOBJ_L;Message object for list structure;0;0
+CTE;CTE_D_CM_ERR_ADD;Additional information for System Monitoring;0;0
+CTE;CTE_D_CM_ERR_AG;Aggregated Error Message for System Monitoring;0;0
+CTE;CTE_D_CM_ERR_OBJ;Message object for System Monitoring;0;0
+CTE;CTE_D_CM_OBJ;Result Table for replicated Cost Objects not failed;0;0
+CTE;CTE_D_CM_OBJ_L;Result Table for replicated Cost Objects not failed List;0;0
+CTE;CTE_D_CM_RES;Result Table for System Monitor;0;0
+CTE;CTE_D_CM_RES_L;Result Table for System Monitor List Structure;0;0
+CTE;CTE_D_COM_LOG_EX;Communication LOG for Exchange Rate;0;0
+CTE;CTE_D_FIN_I_MILE;SubVal Importing table - Mileage;0;0
 CTS_QUEUE;E070A_BC;Old State: Request Attributes;1;0
 CTS_QUEUE;E070C_BC;Old State: Source/Target Client of Request;1;0
 CTS_QUEUE;E070TC_BC;Old State: Imported Clients of Requests;1;0
@@ -631,160 +631,160 @@ DBACOCKPIT;DB6SCRIPT;DB6: SQL Script Source;1;1
 DBACOCKPIT;HDB_SIZE_HISTORY;History of the DB Size;1;1
 DBACOCKPIT;HDB_TABLE_SIZES;HANA Table Sizes History;1;1
 DBACOCKPIT;SDBADSDB;DBA calendar: planning- vs. R/3 exec.vs. DB exec. times;1;1
-DBAORACLE;DBAML;Job / Job Step Utility View;1;0
-DBAORACLE;DBARCL;Sub-operations;1;0
-DBAORACLE;DBAFID;Look-Up Table for Database Operations;1;0
-DBAORACLE;DBAEXTL;Memory Space Changes;1;0
-DBAORACLE;DBAREOL;Reorganization;1;0
-DBAORACLE;DBABARL;Data Backup - Data Recovery;1;0
-DBAORACLE;DBADFL;Details About Reorganization and Memory Modifications;1;0
-DBAORACLE;DBAOPTL;DB Optimization - Table Statistics;1;0
-DBAORACLE;DBASPAL;Memory Allocation;1;0
-DBAORACLE;DBABD;Information About the Data Files (Oracle);1;0
-DBAORACLE;DBABL;Information About Archive Log Files (Oracle);1;0
-DBAORACLE;DBATL;Central Task / Job Information;1;0
-DBAORACLE;DBAOBJL;Object Status;1;0
-DBAORACLE;DBAPHAL;Object Status;1;0
-DBAORACLE;DBAGRP;Lookup Table Operation Group Tables;1;0
-DBAORACLE;DBAERR;Look-Up Table for Database Operation Errors;1;0
-DBAORACLE;DBATRIAL;Look-Up Tables for Database Sub-Operations;1;0
-DBAORACLE;DBSTATC;Configuration of Statistics Creation;1;0
-DBAORACLE;DBMSGORA;Database Check: Messages;1;0
-DBAORACLE;DBCHECKORA;Configuration of Database Check;1;0
+DBAORACLE;DBAML;Job / Job Step Utility View;0;0
+DBAORACLE;DBARCL;Sub-operations;0;0
+DBAORACLE;DBAFID;Look-Up Table for Database Operations;0;0
+DBAORACLE;DBAEXTL;Memory Space Changes;0;0
+DBAORACLE;DBAREOL;Reorganization;0;0
+DBAORACLE;DBABARL;Data Backup - Data Recovery;0;0
+DBAORACLE;DBADFL;Details About Reorganization and Memory Modifications;0;0
+DBAORACLE;DBAOPTL;DB Optimization - Table Statistics;0;0
+DBAORACLE;DBASPAL;Memory Allocation;0;0
+DBAORACLE;DBABD;Information About the Data Files (Oracle);0;0
+DBAORACLE;DBABL;Information About Archive Log Files (Oracle);0;0
+DBAORACLE;DBATL;Central Task / Job Information;0;0
+DBAORACLE;DBAOBJL;Object Status;0;0
+DBAORACLE;DBAPHAL;Object Status;0;0
+DBAORACLE;DBAGRP;Lookup Table Operation Group Tables;0;0
+DBAORACLE;DBAERR;Look-Up Table for Database Operation Errors;0;0
+DBAORACLE;DBATRIAL;Look-Up Tables for Database Sub-Operations;0;0
+DBAORACLE;DBSTATC;Configuration of Statistics Creation;0;0
+DBAORACLE;DBMSGORA;Database Check: Messages;0;0
+DBAORACLE;DBCHECKORA;Configuration of Database Check;0;0
 E070L;E070L;CTS: Index for Assigning Numbers to Requests/Tasks;1;1
-ECATT;CATA;CATT: General Test Procedure Data;1;0
-ECATT;CATCU;CATT integration of external test tool;1;0
-ECATT;CATDA;CATT - Test object transaction data information;1;0
-ECATT;CATDB;CATT - Test object transaction data;1;0
-ECATT;CATF;CATT: Subsequent Data in Test Procedure;1;0
-ECATT;CATFC;CATT: Generated function module calls;1;0
-ECATT;CATFF;CATT - Recorded fields;1;0
-ECATT;CATG;CATT: Basic Texts for Test Procedure;1;0
-ECATT;CATJ;CATT - Log archive index;1;0
-ECATT;CATK;CATT: Log Process Data;1;0
-ECATT;CATL;CATT: Log Process Data;1;0
-ECATT;CATM;CATT: Log for model and function data;1;0
-ECATT;CATN;CATT - Parameter data log;1;0
-ECATT;CATO;CATT - Static TCD data from CATF log;1;0
-ECATT;CATP;CATT - Parameters and variants;1;0
-ECATT;CATP_GLOB;CATT - Global Parameters;1;0
-ECATT;CATQ;CATT - inspection indicator history;1;0
-ECATT;CATR;CATT: Reset table changes;1;0
-ECATT;CATU;CATT variants;1;0
-ECATT;CATV;CATT: Variable Texts;1;0
-ECATT;CATX;CATT - save files externally;1;0
-ECATT;CAT_DP_FLD;Export fields for DataProvider;1;0
-ECATT;CAT_DP_FOR;DataTab format for data provider ! Iposition Ioffset !;1;0
-ECATT;CAT_DP_PRO;DataTab properties for data provider;1;0
-ECATT;CAT_DP_TAB;Save CATT DataProvider data;1;0
-ECATT;CAT_FDATA;CATT contents for field lists in CAT_FINFO;1;0
-ECATT;CAT_FINFO;General Control field info;1;0
-ECATT;CAT_PARAMS;CATT - Data for Controls;1;0
-ECATT;CAT_VARS;CATT - Data for Controls;1;0
-ECATT;CAT_VERBS;CATT - Controls data;1;0
-ECATT;STWB_SET;Central Settings;1;0
-ECATT;TNODE02;Test Organizer, Node Table;1;0
-ECATT;TNODE02A;Test Organizer, Test Catalog, Plan, Package Attributes;1;0
-ECATT;TNODE02R;Test Organizer, References;1;0
-ECATT;TNODE02T;Test Organizer, Texts;1;0
-ECATT;TNODE02_A;Test case attributes: Management;1;0
-ECATT;TNODE02_AC;Test case attributes: CATT-specific;1;0
-ECATT;TNODE02_AP;Test case attributes: Problem message data;1;0
-ECATT;TNODE02_AS;Test case attributes: Training-specific CATT attributes;1;0
-ECATT;TNODE02_AT;Test case attributes: Short texts;1;0
-ECATT;TWB_CUSTOM;Test Workbench - Customizing;1;0
-ECATT;TWB_CUST_PRIO;Customizing of Message Priorities;1;0
-ECATT;TWB_CUST_STAT;Message Status Customizing;1;0
-ECATT;TWB_EVAL;Weighting of Test Cases;1;0
-ECATT;TWB_PRODUCT;Product and Product Release;1;0
-ECATT;TWB_PROFIL;Profile for Test Workbench Customizing;1;0
-ECATT;TWB_PROFILT;Profile Description;1;0
-ECATT;TWB_RMP;Work Breakdown Structure Elements (WBS Elements);1;0
-ECATT;TWB_RMPT;Work Breakdown Structure Elements (WBS Elements);1;0
-ECATT;TWB_SEQU;Test Set;1;0
-ECATT;TWB_SEQUT;Description of a Set of Tests;1;0
-ECATT;TWB_TBTCO;Assignment Test Plan and Test Package to Batch Job;1;0
-ECATT;TTREE;Definition table for structures;1;0
-ECATT;TTREEI;List of Active Nodes for a Structure;1;0
-ECATT;TTREET;Name of a structure;1;0
-ECATT;TTREEN;List of node types to be displayed for a structure;1;0
-ECATT;TTREEP;Parameter for view: Maintenance by application only;1;0
-ECATT;TTREE_EXT;Structure enhancement ID;1;0
-ECATT;TTREE_EXTT;Table TTREE_EXT text table;1;0
-ECATT;TTREES;Read sequence for namespace identifier;1;0
-ECATT;TTREE_APPL;Application-defined additional structure data;1;0
-ECATT;TTREE_FLNK;Link between old and new nodes in filter;1;0
-ECATT;TSTAFTW;Test Workbench Status Mgt: Connection to Test Package;1;0
-ECATT;TSTAHTW;TWB Status Management: Status Information;1;0
-ECATT;TSTASETW;TWB Status Management: Status Values;1;0
-ECATT;TSTASTTW;TWB Status Management: Status Value Texts;1;0
-ETD;SECM_CONFIG;SECM: Configuration;1;0
-ETD;SECM_CACHE;SECM: Generic client-dependant cache table;1;0
-ETD;SECM_CDLOG_FILT;SECM: Filter for Change Document Logs;1;0
-ETD;SECM_LOGS;SECM: Logs;1;0
-ETD;SECM_LOG_CACHE;SECM: Log Cache Directory;1;0
-ETD;SECM_LOG_COOKIE;SECM: Cookies for delta handling;1;0
-ETD;SECM_LOG_STAT;SECM: Logs statitics;1;0
-ETD;SECM_LOG_TR;SECM: Time ranges for distributed delta handling;1;0
-ETD;SECM_LOG_TS;SECM: Timestamp storage for delta handling;1;0
-ETD;SECM_UCL_CLIENTS;User change log: Settings for client-specific extraction;1;0
-ETD;SECM_RAL_CFG;SECM: Log Domain Configuration;1;0
-EWM_AVCHECK;/SCWM/TDLVAVC;Availability Check Configuration;1;0
-EWM_AVCHECK;/SCWM/TAVCPROF;Availability Check: Configuration of Requirements Profile;1;0
-EWM_BATMAN;/SCWM/TBATCHUPD;Batch Update Control (Centralized and Decantralized);1;0
-EWM_DELPERP;/SCWM/TMAPFIELD;Determine Differentiation Attribute for Item Type Mapping;1;0
-EWM_DELPERP;/SCWM/TMAPDLVTYP;Mapping Delivery Type - Document Type;1;0
-EWM_DELPERP;/SCWM/TMAPITMTYP;Mapping of ERP Item Type;1;0
-EWM_DELPERP;/SCWM/TMAPDTTYPE;Mapping ERP Date/Time Types;1;0
-EWM_DELPERP;/SCWM/TMAPPTYRLE;Mapping ERP Partner Roles;1;0
-EWM_DELPERP;/SCWM/TCTRLMSG;Recipient-Dependent Control of Message Processing;1;0
-EWM_DELPERP;/SCWM/TMAPROUTE;Map Routes / Route Schedule from ERP System to EWM;1;0
-EWM_GENSERP;/SCWM/TMAPWHNUM;Mapping for Warehouse Number;1;0
-EWM_GENSERP;/SCWM/TWMEQUEUE;qRFC Configuration for Communication ERP <=> EWM;1;0
-EWM_GENSERP;/SCWM/TCTRLPROCS;Recipient-Dependent Control of Processes;1;0
-EWM_GENSERP;/SCWM/TCHM_SDEST;Check Monitor: RFC Destination of Logical System;1;0
-EWM_GENSERP_M;/SCMB/TOWNBS;Name of Own Business System;1;0
-EWM_GENSERP_M;/SCMB/TBUSSYS;Buffer for SLD Data of Business Systems;1;0
-EWM_GENSERP_M;/SCWM/TITDATACNT;Data Set Content;1;0
-EWM_GENSERP_M;/SCWM/TITDATASET;Data Set;1;0
-EWM_GENSERP_M;/SCWM/TITDATASTT;Data Set;1;0
-EWM_GENSGTS;/SCWM/T340D;Define Values for Warehouse Number;1;0
-EWM_GENSGTS_M;/SCMB/TBUSSYS;Buffer for SLD Data of Business Systems;1;0
-EWM_GOODMOV;/SCWM/TMAPSTLOC;Mapping Table for ERP Plant Storage Location;1;0
-EWM_GOODMOV;/SCWM/TIMCBWA;Determine ERP MM-IM Movement Type: Customer Movement Types;1;0
-EWM_GOODMOV;/SCWM/TIMCBUSTR;ERP Posting String Reference Determination per Movement Type;1;0
-EWM_MASDAT;/SCMB/BPMAPDIFF;Mapping for the Business Partner Number Conversion;1;0
-EWM_MIGLEWM;/SCWM/TMIGSTYPR;Mapping rule for storage type mapping;1;0
-EWM_MIGLEWM;/SCWM/TMIGMAPSTY;Mapping of LE-WM Storage Type to EWM Storage Type;1;0
-EWM_MIGLEWM;/SCWM/TMIGPATOAA;Mapping rule: LE WM picking area to EWM activity area;1;0
-EWM_MIGLEWM;/SCWM/TMIGMTWHPT;Mapping LE WM movement type to EWM warehouse process type;1;0
-EWM_MIGLEWM;/SCWM/TMIGSUTHUT;Mapping of LE WM storage unit type to EWM handling unit type;1;0
-EWM_MIGLEWM;/SCWM/TCHM_SDEST;Check Monitor: RFC Destination of Logical System;1;0
-EWM_NONSAPS;/SCWM/T327A;Control of Link WME --> Subsystem;1;0
-EWM_OTHERS;/SCWM/TPSDISTRIB;RFC destination for packspec distribution;1;0
-EWM_OTHERS;/SCWM/TAPOSYS;Information About APO/eSPP Instances;1;0
-EWM_OTHERS;/SCWM/TTRANSPL;Transportation Planning Type;1;0
-EWM_OTHERS;/SCWM/TTRANSPREL;EWM Execution Without Transport Planning;1;0
-EWM_OTHERS;/SCWM/TCHM_SDEST;Check Monitor: RFC Destination of Logical System;1;0
-EWM_OTHERS;/SCWM/TMFSPLC;PLC;1;0
-EWM_OTHERS;/SCWM/TMFSCCH;Definition Table of the Communication Channel;1;0
-EWM_OTHERS;/SCWM/DD_BMR_REF;BMR reference for when generation BM;1;0
-EWM_OTHERS;/SCWM/D_BMRS_RT;Specification of Warehouse Billing Measurement Root;1;0
-EWM_OTHERS;/SCWM/D_BMR_REF;Billing Measurement Request Reference;1;0
-EWM_PRINT;/SCWM/T340D;Define Values for Warehouse Number;1;0
-EWM_PRINT;/SAPCND/CTLIST;Det. Procedure;1;0
-EWM_PRINT;TSPPF_PRPR_002;Print Profile Data;1;0
-EWM_PRINT;/SCWM/TPSGLOBAL;Global attributes for packaging specifications;1;0
-EWM_RFID_M;/SCWM/RFID_RFC;RFC Destination to SAP AII System;1;0
-EWM_TRANS;/SCWM/TSHPMNTNO;Settings for Shipment IDoc Processing;1;0
-EWM_TRANS;/SCWM/TTMINTDEF;Default Values Needed for ERP Transportation Integration;1;0
-EWM_TRANS;/SCTM/TTPLST;Transportation Planning Point;1;0
-EWM_TRANS;/SCTM/TTPLSTT;Transportation Planning Point - Texts;1;0
-EWM_WCGIP;/SCWM/T_ESI_TDL;Customizing for Express Delivery Company;1;0
-EWM_WCGIP;/SCWM/T_ESI_TDLT;Description of Express Delivery Company;1;0
-EWM_WCGIP;/SCWM/T_ESI_SWIT;Switch for Calling Express Shipping Interface;1;0
-EWM_WCGIP;/SCWM/T_ESI_MAIN;Express-Delivery-Company-Specific Data Determination Instr.;1;0
-EWZ5;EWUUSERTYP;EMU Conversion: User Type;1;0
+ECATT;CATA;CATT: General Test Procedure Data;0;0
+ECATT;CATCU;CATT integration of external test tool;0;0
+ECATT;CATDA;CATT - Test object transaction data information;0;0
+ECATT;CATDB;CATT - Test object transaction data;0;0
+ECATT;CATF;CATT: Subsequent Data in Test Procedure;0;0
+ECATT;CATFC;CATT: Generated function module calls;0;0
+ECATT;CATFF;CATT - Recorded fields;0;0
+ECATT;CATG;CATT: Basic Texts for Test Procedure;0;0
+ECATT;CATJ;CATT - Log archive index;0;0
+ECATT;CATK;CATT: Log Process Data;0;0
+ECATT;CATL;CATT: Log Process Data;0;0
+ECATT;CATM;CATT: Log for model and function data;0;0
+ECATT;CATN;CATT - Parameter data log;0;0
+ECATT;CATO;CATT - Static TCD data from CATF log;0;0
+ECATT;CATP;CATT - Parameters and variants;0;0
+ECATT;CATP_GLOB;CATT - Global Parameters;0;0
+ECATT;CATQ;CATT - inspection indicator history;0;0
+ECATT;CATR;CATT: Reset table changes;0;0
+ECATT;CATU;CATT variants;0;0
+ECATT;CATV;CATT: Variable Texts;0;0
+ECATT;CATX;CATT - save files externally;0;0
+ECATT;CAT_DP_FLD;Export fields for DataProvider;0;0
+ECATT;CAT_DP_FOR;DataTab format for data provider ! Iposition Ioffset !;0;0
+ECATT;CAT_DP_PRO;DataTab properties for data provider;0;0
+ECATT;CAT_DP_TAB;Save CATT DataProvider data;0;0
+ECATT;CAT_FDATA;CATT contents for field lists in CAT_FINFO;0;0
+ECATT;CAT_FINFO;General Control field info;0;0
+ECATT;CAT_PARAMS;CATT - Data for Controls;0;0
+ECATT;CAT_VARS;CATT - Data for Controls;0;0
+ECATT;CAT_VERBS;CATT - Controls data;0;0
+ECATT;STWB_SET;Central Settings;0;0
+ECATT;TNODE02;Test Organizer, Node Table;0;0
+ECATT;TNODE02A;Test Organizer, Test Catalog, Plan, Package Attributes;0;0
+ECATT;TNODE02R;Test Organizer, References;0;0
+ECATT;TNODE02T;Test Organizer, Texts;0;0
+ECATT;TNODE02_A;Test case attributes: Management;0;0
+ECATT;TNODE02_AC;Test case attributes: CATT-specific;0;0
+ECATT;TNODE02_AP;Test case attributes: Problem message data;0;0
+ECATT;TNODE02_AS;Test case attributes: Training-specific CATT attributes;0;0
+ECATT;TNODE02_AT;Test case attributes: Short texts;0;0
+ECATT;TWB_CUSTOM;Test Workbench - Customizing;0;0
+ECATT;TWB_CUST_PRIO;Customizing of Message Priorities;0;0
+ECATT;TWB_CUST_STAT;Message Status Customizing;0;0
+ECATT;TWB_EVAL;Weighting of Test Cases;0;0
+ECATT;TWB_PRODUCT;Product and Product Release;0;0
+ECATT;TWB_PROFIL;Profile for Test Workbench Customizing;0;0
+ECATT;TWB_PROFILT;Profile Description;0;0
+ECATT;TWB_RMP;Work Breakdown Structure Elements (WBS Elements);0;0
+ECATT;TWB_RMPT;Work Breakdown Structure Elements (WBS Elements);0;0
+ECATT;TWB_SEQU;Test Set;0;0
+ECATT;TWB_SEQUT;Description of a Set of Tests;0;0
+ECATT;TWB_TBTCO;Assignment Test Plan and Test Package to Batch Job;0;0
+ECATT;TTREE;Definition table for structures;0;0
+ECATT;TTREEI;List of Active Nodes for a Structure;0;0
+ECATT;TTREET;Name of a structure;0;0
+ECATT;TTREEN;List of node types to be displayed for a structure;0;0
+ECATT;TTREEP;Parameter for view: Maintenance by application only;0;0
+ECATT;TTREE_EXT;Structure enhancement ID;0;0
+ECATT;TTREE_EXTT;Table TTREE_EXT text table;0;0
+ECATT;TTREES;Read sequence for namespace identifier;0;0
+ECATT;TTREE_APPL;Application-defined additional structure data;0;0
+ECATT;TTREE_FLNK;Link between old and new nodes in filter;0;0
+ECATT;TSTAFTW;Test Workbench Status Mgt: Connection to Test Package;0;0
+ECATT;TSTAHTW;TWB Status Management: Status Information;0;0
+ECATT;TSTASETW;TWB Status Management: Status Values;0;0
+ECATT;TSTASTTW;TWB Status Management: Status Value Texts;0;0
+ETD;SECM_CONFIG;SECM: Configuration;0;0
+ETD;SECM_CACHE;SECM: Generic client-dependant cache table;0;0
+ETD;SECM_CDLOG_FILT;SECM: Filter for Change Document Logs;0;0
+ETD;SECM_LOGS;SECM: Logs;0;0
+ETD;SECM_LOG_CACHE;SECM: Log Cache Directory;0;0
+ETD;SECM_LOG_COOKIE;SECM: Cookies for delta handling;0;0
+ETD;SECM_LOG_STAT;SECM: Logs statitics;0;0
+ETD;SECM_LOG_TR;SECM: Time ranges for distributed delta handling;0;0
+ETD;SECM_LOG_TS;SECM: Timestamp storage for delta handling;0;0
+ETD;SECM_UCL_CLIENTS;User change log: Settings for client-specific extraction;0;0
+ETD;SECM_RAL_CFG;SECM: Log Domain Configuration;0;0
+EWM_AVCHECK;/SCWM/TDLVAVC;Availability Check Configuration;0;0
+EWM_AVCHECK;/SCWM/TAVCPROF;Availability Check: Configuration of Requirements Profile;0;0
+EWM_BATMAN;/SCWM/TBATCHUPD;Batch Update Control (Centralized and Decantralized);0;0
+EWM_DELPERP;/SCWM/TMAPFIELD;Determine Differentiation Attribute for Item Type Mapping;0;0
+EWM_DELPERP;/SCWM/TMAPDLVTYP;Mapping Delivery Type - Document Type;0;0
+EWM_DELPERP;/SCWM/TMAPITMTYP;Mapping of ERP Item Type;0;0
+EWM_DELPERP;/SCWM/TMAPDTTYPE;Mapping ERP Date/Time Types;0;0
+EWM_DELPERP;/SCWM/TMAPPTYRLE;Mapping ERP Partner Roles;0;0
+EWM_DELPERP;/SCWM/TCTRLMSG;Recipient-Dependent Control of Message Processing;0;0
+EWM_DELPERP;/SCWM/TMAPROUTE;Map Routes / Route Schedule from ERP System to EWM;0;0
+EWM_GENSERP;/SCWM/TMAPWHNUM;Mapping for Warehouse Number;0;0
+EWM_GENSERP;/SCWM/TWMEQUEUE;qRFC Configuration for Communication ERP <=> EWM;0;0
+EWM_GENSERP;/SCWM/TCTRLPROCS;Recipient-Dependent Control of Processes;0;0
+EWM_GENSERP;/SCWM/TCHM_SDEST;Check Monitor: RFC Destination of Logical System;0;0
+EWM_GENSERP_M;/SCMB/TOWNBS;Name of Own Business System;0;0
+EWM_GENSERP_M;/SCMB/TBUSSYS;Buffer for SLD Data of Business Systems;0;0
+EWM_GENSERP_M;/SCWM/TITDATACNT;Data Set Content;0;0
+EWM_GENSERP_M;/SCWM/TITDATASET;Data Set;0;0
+EWM_GENSERP_M;/SCWM/TITDATASTT;Data Set;0;0
+EWM_GENSGTS;/SCWM/T340D;Define Values for Warehouse Number;0;0
+EWM_GENSGTS_M;/SCMB/TBUSSYS;Buffer for SLD Data of Business Systems;0;0
+EWM_GOODMOV;/SCWM/TMAPSTLOC;Mapping Table for ERP Plant Storage Location;0;0
+EWM_GOODMOV;/SCWM/TIMCBWA;Determine ERP MM-IM Movement Type: Customer Movement Types;0;0
+EWM_GOODMOV;/SCWM/TIMCBUSTR;ERP Posting String Reference Determination per Movement Type;0;0
+EWM_MASDAT;/SCMB/BPMAPDIFF;Mapping for the Business Partner Number Conversion;0;0
+EWM_MIGLEWM;/SCWM/TMIGSTYPR;Mapping rule for storage type mapping;0;0
+EWM_MIGLEWM;/SCWM/TMIGMAPSTY;Mapping of LE-WM Storage Type to EWM Storage Type;0;0
+EWM_MIGLEWM;/SCWM/TMIGPATOAA;Mapping rule: LE WM picking area to EWM activity area;0;0
+EWM_MIGLEWM;/SCWM/TMIGMTWHPT;Mapping LE WM movement type to EWM warehouse process type;0;0
+EWM_MIGLEWM;/SCWM/TMIGSUTHUT;Mapping of LE WM storage unit type to EWM handling unit type;0;0
+EWM_MIGLEWM;/SCWM/TCHM_SDEST;Check Monitor: RFC Destination of Logical System;0;0
+EWM_NONSAPS;/SCWM/T327A;Control of Link WME --> Subsystem;0;0
+EWM_OTHERS;/SCWM/TPSDISTRIB;RFC destination for packspec distribution;0;0
+EWM_OTHERS;/SCWM/TAPOSYS;Information About APO/eSPP Instances;0;0
+EWM_OTHERS;/SCWM/TTRANSPL;Transportation Planning Type;0;0
+EWM_OTHERS;/SCWM/TTRANSPREL;EWM Execution Without Transport Planning;0;0
+EWM_OTHERS;/SCWM/TCHM_SDEST;Check Monitor: RFC Destination of Logical System;0;0
+EWM_OTHERS;/SCWM/TMFSPLC;PLC;0;0
+EWM_OTHERS;/SCWM/TMFSCCH;Definition Table of the Communication Channel;0;0
+EWM_OTHERS;/SCWM/DD_BMR_REF;BMR reference for when generation BM;0;0
+EWM_OTHERS;/SCWM/D_BMRS_RT;Specification of Warehouse Billing Measurement Root;0;0
+EWM_OTHERS;/SCWM/D_BMR_REF;Billing Measurement Request Reference;0;0
+EWM_PRINT;/SCWM/T340D;Define Values for Warehouse Number;0;0
+EWM_PRINT;/SAPCND/CTLIST;Det. Procedure;0;0
+EWM_PRINT;TSPPF_PRPR_002;Print Profile Data;0;0
+EWM_PRINT;/SCWM/TPSGLOBAL;Global attributes for packaging specifications;0;0
+EWM_RFID_M;/SCWM/RFID_RFC;RFC Destination to SAP AII System;0;0
+EWM_TRANS;/SCWM/TSHPMNTNO;Settings for Shipment IDoc Processing;0;0
+EWM_TRANS;/SCWM/TTMINTDEF;Default Values Needed for ERP Transportation Integration;0;0
+EWM_TRANS;/SCTM/TTPLST;Transportation Planning Point;0;0
+EWM_TRANS;/SCTM/TTPLSTT;Transportation Planning Point - Texts;0;0
+EWM_WCGIP;/SCWM/T_ESI_TDL;Customizing for Express Delivery Company;0;0
+EWM_WCGIP;/SCWM/T_ESI_TDLT;Description of Express Delivery Company;0;0
+EWM_WCGIP;/SCWM/T_ESI_SWIT;Switch for Calling Express Shipping Interface;0;0
+EWM_WCGIP;/SCWM/T_ESI_MAIN;Express-Delivery-Company-Specific Data Determination Instr.;0;0
+EWZ5;EWUUSERTYP;EMU Conversion: User Type;0;0
 EXTCOMMAND;SXPGCOSTAB;Definition of logical OS commands(customer table);1;1
 FILE;FILENAMECI;Platform-Independent File Names, Cross-Client;1;1
 FILE;FILETEXTCI;File Name Description;1;1
@@ -895,11 +895,11 @@ OIDC;SECOIDC_TRST_AUD;OpenID Connect (OIDC) Configuration Trusted Audience;1;0
 OPMODE;BTCOMSET;Definition of operation type sets and exception op. modes;1;1
 OPMODE;TPFBA;SAP System operation mode;1;1
 OPMODE;TPFID;Description of SAP instance;1;1
-PI_BASIS_CRM;CRMCONSUM;Possible Users of R/3 Adapter Functionality;1;0
-PI_BASIS_CRM;CRMRFCPAR;Definitions for RFC Connections;1;0
-PI_BASIS_CRM;CRMPRLS;Name of the Logical System for Download;1;0
-PI_BASIS_CRM;CRMSUBTAB;Subscription Table for Upload and Download Objects;1;0
-PI_BASIS_CRM;CRMPAROLTP;CRM OLTP Parameters;1;0
+PI_BASIS_CRM;CRMCONSUM;Possible Users of R/3 Adapter Functionality;0;0
+PI_BASIS_CRM;CRMRFCPAR;Definitions for RFC Connections;0;0
+PI_BASIS_CRM;CRMPRLS;Name of the Logical System for Download;0;0
+PI_BASIS_CRM;CRMSUBTAB;Subscription Table for Upload and Download Objects;0;0
+PI_BASIS_CRM;CRMPAROLTP;CRM OLTP Parameters;0;0
 PRINTER;TSP03;Spool: Printer declaration;1;1
 PRINTER;TSP03A;Spool: Device description (new format);1;1
 PRINTER;TSP03C;Spool: Device Description Extension;1;1
@@ -1003,209 +1003,209 @@ SACF;TOBJ_CHK_CTRL_DH;Scenario for Switchable Authorization Check (Design Phase)
 SACF;TOBJ_CHK_CTRL_DT;Scenario Name;1;0
 SACF;TOBJ_CHK_CTRL_R;Production Scenario for Switchable Authorization Check;1;0
 SACF;TOBJ_CHK_CTRL_RH;Production Scenario for Switchable Authorization Check;1;0
-SAML2;SAML2_AFFILIAT;Table with SAML2 Service Provider Affiliations;1;0
-SAML2;SAML2_AFL_ENT;SAML2 Service Provider Membership for Each Affiliation;1;0
-SAML2;SAML2_AUTH_CXT;SAML2 Authentication Classes;1;0
-SAML2;SAML2_CDC_URLS;Contain the URLs to which the Read Service can redirect to;1;0
-SAML2;SAML2_CUST_CXT;DB Table for custom authentication contexts;1;0
-SAML2;SAML2_ENT_AUTH;SAML2 Authentication Context for Each Entity;1;0
-SAML2;SAML2_ENT_NFMT;SAML2 NameID Format Definition for Each Entity;1;0
-SAML2;SAML2_ENT_PARM;SAML2 Parameter Setting for Each Entity;1;0
-SAML2;SAML2_ENT_PROT;SAML2 Protection Settings for Each Entity and End Point;1;0
-SAML2;SAML2_ENT_RELST;SAML2 Relay State Mapping DB Table;1;0
-SAML2;SAML2_ENT_SRVC;SAML2 Service Definition for Each Entity;1;0
-SAML2;SAML2_ENTITY;SAML2 Entity Table;1;0
-SAML2;SAML2_ENTITY_E;External SAML2 Entity Table;1;0
-SAML2;SAML2_ENTITY_L;Local SAML2 Entity Table;1;0
-SAML2;SAML2_NAME_FMT;SAML2 NameID Format Table;1;0
-SAML2;SAML2_OPM_PARM;SAML2 Parameters for Each Operational Mode of an Entity;1;0
-SAML2;SAML2_PIDFED;SAML2 Persistent Federation of Users;1;0
-SAML2;SAML2_POL_AUTH;SAML2 Authentication Contexts of Logon Policies;1;0
-SAML2;SAML2_POL_PROPS;Table with properties per policy and trusted provider;1;0
-SAML2;SAML2_POLICY;SAML2 Logon Policies for HTTP Services;1;0
-SAML2;SAML2_POLICYT;Texts for SAML2 Policies;1;0
-SAML2;SAML2_STATUS;Table with SAML2 Status;1;0
-SAML2;SAML2_STATUST;Texts for SAML2 Status Value;1;0
-SAML2;SAML2_TIDCON;Table for SAML2 conditions for rule-based username mapping;1;0
-SAML2;SAML2_TIDFED;SAML2 Transient NameID Federation Table;1;0
-SAML2;SAML2_TRUST;Trust Table for SAML2 Entities;1;0
+SAML2;SAML2_AFFILIAT;Table with SAML2 Service Provider Affiliations;1;1
+SAML2;SAML2_AFL_ENT;SAML2 Service Provider Membership for Each Affiliation;1;1
+SAML2;SAML2_AUTH_CXT;SAML2 Authentication Classes;1;1
+SAML2;SAML2_CDC_URLS;Contain the URLs to which the Read Service can redirect to;1;1
+SAML2;SAML2_CUST_CXT;DB Table for custom authentication contexts;1;1
+SAML2;SAML2_ENT_AUTH;SAML2 Authentication Context for Each Entity;1;1
+SAML2;SAML2_ENT_NFMT;SAML2 NameID Format Definition for Each Entity;1;1
+SAML2;SAML2_ENT_PARM;SAML2 Parameter Setting for Each Entity;1;1
+SAML2;SAML2_ENT_PROT;SAML2 Protection Settings for Each Entity and End Point;1;1
+SAML2;SAML2_ENT_RELST;SAML2 Relay State Mapping DB Table;1;1
+SAML2;SAML2_ENT_SRVC;SAML2 Service Definition for Each Entity;1;1
+SAML2;SAML2_ENTITY;SAML2 Entity Table;1;1
+SAML2;SAML2_ENTITY_E;External SAML2 Entity Table;1;1
+SAML2;SAML2_ENTITY_L;Local SAML2 Entity Table;1;1
+SAML2;SAML2_NAME_FMT;SAML2 NameID Format Table;1;1
+SAML2;SAML2_OPM_PARM;SAML2 Parameters for Each Operational Mode of an Entity;1;1
+SAML2;SAML2_PIDFED;SAML2 Persistent Federation of Users;1;1
+SAML2;SAML2_POL_AUTH;SAML2 Authentication Contexts of Logon Policies;1;1
+SAML2;SAML2_POL_PROPS;Table with properties per policy and trusted provider;1;1
+SAML2;SAML2_POLICY;SAML2 Logon Policies for HTTP Services;1;1
+SAML2;SAML2_POLICYT;Texts for SAML2 Policies;1;1
+SAML2;SAML2_STATUS;Table with SAML2 Status;1;1
+SAML2;SAML2_STATUST;Texts for SAML2 Status Value;1;1
+SAML2;SAML2_TIDCON;Table for SAML2 conditions for rule-based username mapping;1;1
+SAML2;SAML2_TIDFED;SAML2 Transient NameID Federation Table;1;1
+SAML2;SAML2_TRUST;Trust Table for SAML2 Entities;1;1
 SAP_APPL_CRM;MNTCNT;Maintenance Control in Distributed Systems;1;0
 SAP_APPL_CRM;CRMKUNNR;Mapping Table Business Partner - Customer;1;0
 SAP_APPL_CRM;CRMPARNR;Mapping Table Business Partner Relationship - Contact Person;1;0
 SAP_APPL_CRM;CRMM_BUT_CUSTNO;Mapping Table Business Partner - Customer;1;0
-SAP_ILM;DAS_STORES;ILM SRS: Store Administration;1;1
-SAP_ILM;LRM_T_OT_PT;Available Policy Types (Available Audit Areas);1;1
-SAP_ILM;LRM_T_PT;Policy Types (Audit Areas);1;1
-SAP_ILM;LRM_T_PT_T;Policy Types - Descriptions;1;1
-SAP_ILM;LRM_T_OT_POL_ORI;Policy (Origin);1;1
-SAP_ILM;LRM_T_OT_POL_FLD;Selected Fields in Policy;1;1
-SAP_ILM;LRM_BS_RTP_RULES;IRM: Rules for Business Suite and Retention Periods;1;1
-SAP_ILM;LRM_BS_RST_RULES;IRM: Rules for Business Suite and Residence Times;1;1
-SAP_ILM;LRM_BS_RST_CONDS;IRM: Conditions for Business Suite and Residence Times;1;1
-SAP_ILM;LRM_BS_RTP_CONDS;IRM: Conditions for Business Suite and Retention Periods;1;1
-SAP_OFFICE;SOUD;SAPoffice: user definition;1;0
-SAP_OFFICE;SOUC;SAPoffice: Inverse user (SAP user);1;0
-SAP_OFFICE;SOUB;SAPoffice: Inverse user (SAPoffice user);1;0
-SAP_OFFICE;SOFD;SAPoffice: Object Definition;1;0
-SAP_OFFICE;SOFM;SAPoffice: Folder contents;1;0
-SAP_OFFICE;SOID;SAPoffice: Inverse record for distribution list;1;0
-SAP_OFFICE;SODM;SAPoffice: distribution list contents;1;0
-SAP_OFFICE;SOOD;SAPoffice: Object definition;1;0
-SAP_OFFICE;NRIV;Number Range Intervals;1;0
-SCC4;T000;Clients;1;0
-SCC4;CLMS_TENANT;Tenant Information (Extension to T000);1;0
-SCM;RCCC_CUSTPARM;RCCF: Settings for Experts;1;0
-SCM;RCCC_ENG_DEST;RCCF: Destinations for Engines;1;0
-SCM;RCCC_ENGINES;External Engines in RCCF;1;0
-SCM;RCCC_PARAM;RCCF: General Settings;1;0
-SCM;RCCC_SECUREFUNC;RCCF: Allowed Service Functions;1;0
-SCM;RCCC_SERVICEPRF;RCCF Service Profiles;1;0
-SCM;RCCC_SERVICEPRFH;RCCF Service Profile Handler Table;1;0
-SCM;/SAPAPO/CIF_DTCL;Cluster Table for Saving Results in the Delta Report;1;0
-SCM;/SAPAPO/CIFBEFCR;Object Distribution Criteria on Last Publication;1;0
-SCM;/SAPAPO/CIFCBCLP;Customizing for Order Removal;1;0
-SCM;/SAPAPO/SDP_PAR;DP/SNP Parallel Processing Profile;1;0
-SCM;/SAPAPO/SDP_PART;DP/SNP Parallel Processing Profile Definitions;1;0
-SCM;/SAPAPO/CIFDISTR;Distribution Criteria for APO Objects;1;0
-SCM;/SAPAPO/CIFERRLG;Error Recording in Enhanced CIF Error Handling;1;0
-SCM;/SAPAPO/CIFGPARA;Global Parameters for CIF;1;0
-SCM;/SAPAPO/CIFLOOKU;Target System to Which Object was Sent;1;0
-SCM;/SAPAPO/CIFMSGMA;Assignment of Application Messages to CIF Messages;1;0
-SCM;/SAPAPO/CIFPARAM;CIF Customizing: Table for Various Customizing Settings;1;0
-SCM;/SAPAPO/CIFPCUST;Customizing: CIF External Procurement;1;0
-SCM;/SAPAPO/CIFPUB1;Runtime Information for Publication;1;0
-SCM;/SAPAPO/CIFREFZU;Assignment Table of Remote Target Modules (Refresh Tool);1;0
-SCM;/SAPAPO/CIFRFCDS;RFC Destinations for CIF Dialog Applications;1;0
-SCM;/SAPAPO/ORDMAP;Order Mapping Table;1;0
-SCM;/SAPAPO/ORDKEY;Order Header Data of Application;1;0
-SCM;/SAPAPO/SYSLST;List of Business Systems;1;0
-SCM;/SAPAPO/SYSLSTT;Texts for business system list;1;0
-SCMINERP;CIF_CHANN;Table for Locking Channels to Target Systems;1;0
-SCMINERP;CIF_CLBLAN;Release CIF from CL Applications;1;0
-SCMINERP;CIF_IMAMPL;Integration Model Table for Approved Manufacturer Parts List;1;0
-SCMINERP;CIF_IMATP;Integration Model Reference Table for ATP Check;1;0
-SCMINERP;CIF_IMAX;Maximum Vectors for Target System and Publishing Type;1;0
-SCMINERP;CIF_IMBTC;Integration Model Reference Table for Batches;1;0
-SCMINERP;CIF_IMCHAR;Integration Model Reference Table for Classification;1;0
-SCMINERP;CIF_IMCHR;Integration Model Reference Table for Characteristics;1;0
-SCMINERP;CIF_IMCHRG;Integration Model Reference Table for Batch Master Data;1;0
-SCMINERP;CIF_IMCLA;Integration Model Reference Tables for Classes;1;0
-SCMINERP;CIF_IMCTBW;Integration Model Reference Table for Data Source;1;0
-SCMINERP;CIF_IMCUS;Integration Model Reference Table for Customers;1;0
-SCMINERP;CIF_IMCUVT;IMod Reference Table for Planning Table;1;0
-SCMINERP;CIF_IMECM;Int. Model Reference Table for Engineering Change Management;1;0
-SCMINERP;CIF_IMFCC;Integration Model Reference Table for Requirements Reduction;1;0
-SCMINERP;CIF_IMFESR;IMod Reference Table for Str. Elements and Supply Rels;1;0
-SCMINERP;CIF_IMFFF;IM Reference Table for FFF Classes;1;0
-SCMINERP;CIF_IMGST;Integration Model Reference Table for Quota Info. Structures;1;0
-SCMINERP;CIF_IMIPPE;IMod Reference Table for IPPE;1;0
-SCMINERP;CIF_IMIPRT;IMod Reference Table for IPPE Runtime Object;1;0
-SCMINERP;CIF_IMKSC;Int. Model Reference Table for Product Allocation Procedure;1;0
-SCMINERP;CIF_IMLOT;Integration Model Reference Table for Inspection Lots;1;0
-SCMINERP;CIF_IMMARC;Integration Model Reference Table for Stock in Transit;1;0
-SCMINERP;CIF_IMMARD;Integration Model Reference Table for Storage Location Stock;1;0
-SCMINERP;CIF_IMMAT;Integration Model Reference Table for Material;1;0
-SCMINERP;CIF_IMMBOM;IMod Reference Table for Material BOM's;1;0
-SCMINERP;CIF_IMMCHB;Integration Model Reference Table for Batch Stocks;1;0
-SCMINERP;CIF_IMMKOL;Int. Model Reference Table for Consignment Stock for Vendor;1;0
-SCMINERP;CIF_IMMRPA;Integration Model Reference Table for MRP Areas;1;0
-SCMINERP;CIF_IMMSKA;Integration Model Reference Table for Sales Order Stock;1;0
-SCMINERP;CIF_IMMSKU;Int. Model Reference Table for Special Stocks at Customer;1;0
-SCMINERP;CIF_IMMSL;Integration Model Reference Table for Consumption Data;1;0
-SCMINERP;CIF_IMMSLB;Int. Model Reference Table for Special Stocks at Vendor;1;0
-SCMINERP;CIF_IMMSPR;Integration Model Reference Table for Project Stocks;1;0
-SCMINERP;CIF_IMMTMRPA;Integration Model Reference Table for Material;1;0
-SCMINERP;CIF_IMNETW;Int. Mod. Reference Table for Networks;1;0
-SCMINERP;CIF_IMOD;Basis Table of Integration Model for APO Interface;1;0
-SCMINERP;CIF_IMOD_TEMP;Temporary Data Storage for CIF Integration Models;1;0
-SCMINERP;CIF_IMORD;Integration Model Reference Table for Production Orders;1;0
-SCMINERP;CIF_IMPCM;Integration Model Reference Table for Production Campaigns;1;0
-SCMINERP;CIF_IMPIR;IMod Reference Table for Planned Independent Requirement;1;0
-SCMINERP;CIF_IMPLO;Integration Model Reference Table for Planned Orders;1;0
-SCMINERP;CIF_IMPLT;Integration Model Reference Table for Plants;1;0
-SCMINERP;CIF_IMPMOD;Int. Mod. Reference Table for Maintenance Orders;1;0
-SCMINERP;CIF_IMPO;Integration Model Reference Table for Orders;1;0
-SCMINERP;CIF_IMPPM;Int. Model Reference Table for Production Process Model;1;0
-SCMINERP;CIF_IMPPR;Int. Mod. Reference Table for Planning Products;1;0
-SCMINERP;CIF_IMPRO;IMod Reference Table for Retail Promotion;1;0
-SCMINERP;CIF_IMPVBE;IMod Reference Table for Production Supply Area;1;0
-SCMINERP;CIF_IMRES;Integration Model Reference Table for Capacity;1;0
-SCMINERP;CIF_IMRESA;IMod Reference Table for Resources (APO Type);1;0
-SCMINERP;CIF_IMRPM;IMod Reference Table for RPM Recipient Determination;1;0
-SCMINERP;CIF_IMRSV;Integration Model Reference Table for Reservations;1;0
-SCMINERP;CIF_IMSDLS;Int. Mod. Reference Table for Sales Scheduling Agmnt Items;1;0
-SCMINERP;CIF_IMSDS;IMod Ref. Table for Sales Scheduling Agreement Items (Old);1;0
-SCMINERP;CIF_IMSHP;Integration Model Reference Table for Shipments;1;0
-SCMINERP;CIF_IMSLS;Integration Model Reference Table for Sales Orders;1;0
-SCMINERP;CIF_IMSPNT;IM Reference Table for Shipping Points;1;0
-SCMINERP;CIF_IMSRCC;Imod Reference Table for Contracts;1;0
-SCMINERP;CIF_IMSRCD;IMod Reference Table for Scheduling Agreements;1;0
-SCMINERP;CIF_IMSRCI;IMod Reference Table for Purchasing Info Records;1;0
-SCMINERP;CIF_IMSSD;Integration Model Reference Table for Simple Discontinuation;1;0
-SCMINERP;CIF_IMSTG;IMod Reference Table for Setup Groups;1;0
-SCMINERP;CIF_IMSUS;IMod Reference Table for Supersession;1;0
-SCMINERP;CIF_IMVCLP;Integration Model Reference Table for VMI Customer Material;1;0
-SCMINERP;CIF_IMVEN;Integration Model Reference Table for Vendors;1;0
-SCMINERP;CIF_IMVMI;Mapping Table for Scheduling Sales Order;1;0
-SCMINERP;CIF_LAYPREF_INDX;Cluster Table for Storing Layout Settings;1;0
-SCMINERP;CIF_MAP_HANDLE;Table: Conversion of Object ID to Unique Handle;1;0
-SCMINERP;CIF_MAP_REP_LAYT;Table for Converting Report Name to Unique ID;1;0
-SCMINERP;CIF_MAP_SP_SL;Unique Mapping of Shipping Point to Storage Location;1;0
-SCMINERP;CIF_MAPLCK;Table for Lock Object ECIF_MAPLCK;1;0
-SCMINERP;CIF_MD_CHANGES;Changes to BOM, Routing and Production Version;1;0
-SCMINERP;CIF_MTCFGS;Default Values for Configuration Relevance for SAP APO;1;0
-SCMINERP;CIF_PPM_CHANGED;PPM: Change Transfer - Changed Production Versions;1;0
-SCMINERP;CIF_PREF_INDX;Cluster Table for Storing User Settings;1;0
-SCMINERP;CIF_TCO43;Enhancements for TCO43 in Plug-In;1;0
-SCMINERP;CIF_TMRPDS;MRP DS: Customizing to Activate MRP based DS;1;0
-SCMINERP;CIF_UPDCNT;Management of Change Status for an Order in CIF;1;0
-SCMINERP;CIF_USER_PREF;User Settings;1;0
-SCMINERP;CIF_VMISD;Confirmation of Sales Area Data and Order Category for VMI;1;0
-SCMINERP;CIFALOGCNF;Configuration of the CIF Application Log;1;0
-SCMINERP;CIFAPLSET;Application-Specific Settings, Target System-Dependent;1;0
-SCMINERP;CIFAPLSET2;Application-Specific Settings, Target System-Independent;1;0
-SCMINERP;CIFBALSEL;Application Log: CIF Extension for Log Selection;1;0
-SCMINERP;CIFCPINFO;Control Table for APO-CIF CP Change Transfer;1;0
-SCMINERP;CIFDESTSYS;"CIF Target Systems: Assgt ""Own LOGSYS"" and ""CIF LOGSYS""";1;0
-SCMINERP;CIFERRCTRL;Control for Enhanced CIF Error Handling;1;0
-SCMINERP;CIFERRLOG;Error Recording in Enhanced CIF Error Handling;1;0
-SCMINERP;CIFGPARAMS;Global Parameters for CIF;1;0
-SCMINERP;CIFIMODGEN;Customizing the Automatic Generation of Integration Models;1;0
-SCMINERP;CIFMDLGVR;Versions of Table MDLG;1;0
-SCMINERP;CIFMDLVVR;Versions of Table MDLV;1;0
-SCMINERP;CIFMDMAVR;Versions of Table MDMA;1;0
-SCMINERP;CIFMDVR;Version Management for MRP Area Changes;1;0
-SCMINERP;CIFOBJINFC;Control Table for APO-CIF Filter Objects, Client-Dependent;1;0
-SCMINERP;CIFOBJINFO;Control Table for APO-CIF Filter Objects, Client-Independent;1;0
-SCMINERP;CIFOBJINFT;Texts for APO-CIF Filter Objects;1;0
-SCMINERP;CIFOPMODE;Transfer Modes for Relevant Logical System;1;0
-SCMINERP;CIFORDMAP;Mapping Table Order No. <-> APO-GUID (Plan/Prod. Orders);1;0
-SCMINERP;CIFPOMAP;Mapping Table NR/POS/ET <-> APO GUID (Purch. Ord. Docs);1;0
-SCMINERP;CIFPUCUST;Customizing for External Procurement CIF;1;0
-SCMINERP;CIFRFCDES;RFC Destinations for CIF Dialog Applications;1;0
-SCMINERP;CIFRVMAP;Mapping Table NR/POS/ET <-> APO GUID (Sales Orders);1;0
-SCMINERP;CIFSELOPT;Definition of the Selection Options for Publishing Types;1;0
-SCMINERP;CIFSLSMAP;Mapping Table NR/POS/ET <-> APO GUID (Sales Orders);1;0
-SCMINERP;CIFSTKUCOUNT;CIF Update Counter Table for Stocks;1;0
-SCMINERP;CIFTXTPOOL;Table for Storing Additional Integration Model Texts;1;0
-SCMINERP;CIFVENTYPE;Assignment of Vendor Account Group to APO Location Type;1;0
-SCM_BASIS;/SAPAPO/SYSDIR;Assignment of System/Client to RFC Destination;1;0
-SCM_BASIS;/SAPAPO/CIFGPARA;Global Parameters for CIF;1;0
-SCM_BASIS;/SAPAPO/CIFRFCDS;RFC Destinations for CIF Dialog Applications;1;0
-SCM_BASIS;/SAPAPO/SYSLST;List of Business Systems;1;0
-SCM_BASIS;/SAPAPO/SYSLSTT;Texts for business system list;1;0
-SCM_CIFMISC1;/SAPAPO/CIFPUB1;Runtime Information for Publication;1;0
-SCM_CIFMISC2;/SAPAPO/SDP_PAR;DP/SNP Parallel Processing Profile;1;0
-SCM_CIFMISC2;/SAPAPO/SDP_PART;DP/SNP Parallel Processing Profile Definitions;1;0
-SCM_PI_APPL;CIFVENTYPE;Assignment of Vendor Account Group to APO Location Type;1;0
-SCM_PI_DTRAN;CIFGPARAMS;Global Parameters for CIF;1;0
-SCM_PI_DTRO1;CIFOBJINFC;Control Table for APO-CIF Filter Objects, Client-Dependent;1;0
-SCM_PI_DTRO2;SRMPOTRANS;Customizing table for SRM to SCM PO transfer;1;0
-SCM_PI_DTRO3;CIFALOGCNF;Configuration of the CIF Application Log;1;0
-SCM_PI_DTRO4;CIFAPLSET;Application-Specific Settings, Target System-Dependent;1;0
-SCM_PI_DTRO4;CIFAPLSET2;Application-Specific Settings, Target System-Independent;1;0
-SCM_PI_LANDS;CIFRFCDES;RFC Destinations for CIF Dialog Applications;1;0
-SCM_PI_LANO1;CIFOPMODE;Transfer Modes for Relevant Logical System;1;0
+SAP_ILM;DAS_STORES;ILM SRS: Store Administration;0;0
+SAP_ILM;LRM_T_OT_PT;Available Policy Types (Available Audit Areas);0;0
+SAP_ILM;LRM_T_PT;Policy Types (Audit Areas);0;0
+SAP_ILM;LRM_T_PT_T;Policy Types - Descriptions;0;0
+SAP_ILM;LRM_T_OT_POL_ORI;Policy (Origin);0;0
+SAP_ILM;LRM_T_OT_POL_FLD;Selected Fields in Policy;0;0
+SAP_ILM;LRM_BS_RTP_RULES;IRM: Rules for Business Suite and Retention Periods;0;0
+SAP_ILM;LRM_BS_RST_RULES;IRM: Rules for Business Suite and Residence Times;0;0
+SAP_ILM;LRM_BS_RST_CONDS;IRM: Conditions for Business Suite and Residence Times;0;0
+SAP_ILM;LRM_BS_RTP_CONDS;IRM: Conditions for Business Suite and Retention Periods;0;0
+SAP_OFFICE;SOUD;SAPoffice: user definition;0;0
+SAP_OFFICE;SOUC;SAPoffice: Inverse user (SAP user);0;0
+SAP_OFFICE;SOUB;SAPoffice: Inverse user (SAPoffice user);0;0
+SAP_OFFICE;SOFD;SAPoffice: Object Definition;0;0
+SAP_OFFICE;SOFM;SAPoffice: Folder contents;0;0
+SAP_OFFICE;SOID;SAPoffice: Inverse record for distribution list;0;0
+SAP_OFFICE;SODM;SAPoffice: distribution list contents;0;0
+SAP_OFFICE;SOOD;SAPoffice: Object definition;0;0
+SAP_OFFICE;NRIV;Number Range Intervals;0;0
+SCC4;T000;Clients;1;1
+SCC4;CLMS_TENANT;Tenant Information (Extension to T000);1;1
+SCM;RCCC_CUSTPARM;RCCF: Settings for Experts;0;0
+SCM;RCCC_ENG_DEST;RCCF: Destinations for Engines;0;0
+SCM;RCCC_ENGINES;External Engines in RCCF;0;0
+SCM;RCCC_PARAM;RCCF: General Settings;0;0
+SCM;RCCC_SECUREFUNC;RCCF: Allowed Service Functions;0;0
+SCM;RCCC_SERVICEPRF;RCCF Service Profiles;0;0
+SCM;RCCC_SERVICEPRFH;RCCF Service Profile Handler Table;0;0
+SCM;/SAPAPO/CIF_DTCL;Cluster Table for Saving Results in the Delta Report;0;0
+SCM;/SAPAPO/CIFBEFCR;Object Distribution Criteria on Last Publication;0;0
+SCM;/SAPAPO/CIFCBCLP;Customizing for Order Removal;0;0
+SCM;/SAPAPO/SDP_PAR;DP/SNP Parallel Processing Profile;0;0
+SCM;/SAPAPO/SDP_PART;DP/SNP Parallel Processing Profile Definitions;0;0
+SCM;/SAPAPO/CIFDISTR;Distribution Criteria for APO Objects;0;0
+SCM;/SAPAPO/CIFERRLG;Error Recording in Enhanced CIF Error Handling;0;0
+SCM;/SAPAPO/CIFGPARA;Global Parameters for CIF;0;0
+SCM;/SAPAPO/CIFLOOKU;Target System to Which Object was Sent;0;0
+SCM;/SAPAPO/CIFMSGMA;Assignment of Application Messages to CIF Messages;0;0
+SCM;/SAPAPO/CIFPARAM;CIF Customizing: Table for Various Customizing Settings;0;0
+SCM;/SAPAPO/CIFPCUST;Customizing: CIF External Procurement;0;0
+SCM;/SAPAPO/CIFPUB1;Runtime Information for Publication;0;0
+SCM;/SAPAPO/CIFREFZU;Assignment Table of Remote Target Modules (Refresh Tool);0;0
+SCM;/SAPAPO/CIFRFCDS;RFC Destinations for CIF Dialog Applications;0;0
+SCM;/SAPAPO/ORDMAP;Order Mapping Table;0;0
+SCM;/SAPAPO/ORDKEY;Order Header Data of Application;0;0
+SCM;/SAPAPO/SYSLST;List of Business Systems;0;0
+SCM;/SAPAPO/SYSLSTT;Texts for business system list;0;0
+SCMINERP;CIF_CHANN;Table for Locking Channels to Target Systems;0;0
+SCMINERP;CIF_CLBLAN;Release CIF from CL Applications;0;0
+SCMINERP;CIF_IMAMPL;Integration Model Table for Approved Manufacturer Parts List;0;0
+SCMINERP;CIF_IMATP;Integration Model Reference Table for ATP Check;0;0
+SCMINERP;CIF_IMAX;Maximum Vectors for Target System and Publishing Type;0;0
+SCMINERP;CIF_IMBTC;Integration Model Reference Table for Batches;0;0
+SCMINERP;CIF_IMCHAR;Integration Model Reference Table for Classification;0;0
+SCMINERP;CIF_IMCHR;Integration Model Reference Table for Characteristics;0;0
+SCMINERP;CIF_IMCHRG;Integration Model Reference Table for Batch Master Data;0;0
+SCMINERP;CIF_IMCLA;Integration Model Reference Tables for Classes;0;0
+SCMINERP;CIF_IMCTBW;Integration Model Reference Table for Data Source;0;0
+SCMINERP;CIF_IMCUS;Integration Model Reference Table for Customers;0;0
+SCMINERP;CIF_IMCUVT;IMod Reference Table for Planning Table;0;0
+SCMINERP;CIF_IMECM;Int. Model Reference Table for Engineering Change Management;0;0
+SCMINERP;CIF_IMFCC;Integration Model Reference Table for Requirements Reduction;0;0
+SCMINERP;CIF_IMFESR;IMod Reference Table for Str. Elements and Supply Rels;0;0
+SCMINERP;CIF_IMFFF;IM Reference Table for FFF Classes;0;0
+SCMINERP;CIF_IMGST;Integration Model Reference Table for Quota Info. Structures;0;0
+SCMINERP;CIF_IMIPPE;IMod Reference Table for IPPE;0;0
+SCMINERP;CIF_IMIPRT;IMod Reference Table for IPPE Runtime Object;0;0
+SCMINERP;CIF_IMKSC;Int. Model Reference Table for Product Allocation Procedure;0;0
+SCMINERP;CIF_IMLOT;Integration Model Reference Table for Inspection Lots;0;0
+SCMINERP;CIF_IMMARC;Integration Model Reference Table for Stock in Transit;0;0
+SCMINERP;CIF_IMMARD;Integration Model Reference Table for Storage Location Stock;0;0
+SCMINERP;CIF_IMMAT;Integration Model Reference Table for Material;0;0
+SCMINERP;CIF_IMMBOM;IMod Reference Table for Material BOM's;0;0
+SCMINERP;CIF_IMMCHB;Integration Model Reference Table for Batch Stocks;0;0
+SCMINERP;CIF_IMMKOL;Int. Model Reference Table for Consignment Stock for Vendor;0;0
+SCMINERP;CIF_IMMRPA;Integration Model Reference Table for MRP Areas;0;0
+SCMINERP;CIF_IMMSKA;Integration Model Reference Table for Sales Order Stock;0;0
+SCMINERP;CIF_IMMSKU;Int. Model Reference Table for Special Stocks at Customer;0;0
+SCMINERP;CIF_IMMSL;Integration Model Reference Table for Consumption Data;0;0
+SCMINERP;CIF_IMMSLB;Int. Model Reference Table for Special Stocks at Vendor;0;0
+SCMINERP;CIF_IMMSPR;Integration Model Reference Table for Project Stocks;0;0
+SCMINERP;CIF_IMMTMRPA;Integration Model Reference Table for Material;0;0
+SCMINERP;CIF_IMNETW;Int. Mod. Reference Table for Networks;0;0
+SCMINERP;CIF_IMOD;Basis Table of Integration Model for APO Interface;0;0
+SCMINERP;CIF_IMOD_TEMP;Temporary Data Storage for CIF Integration Models;0;0
+SCMINERP;CIF_IMORD;Integration Model Reference Table for Production Orders;0;0
+SCMINERP;CIF_IMPCM;Integration Model Reference Table for Production Campaigns;0;0
+SCMINERP;CIF_IMPIR;IMod Reference Table for Planned Independent Requirement;0;0
+SCMINERP;CIF_IMPLO;Integration Model Reference Table for Planned Orders;0;0
+SCMINERP;CIF_IMPLT;Integration Model Reference Table for Plants;0;0
+SCMINERP;CIF_IMPMOD;Int. Mod. Reference Table for Maintenance Orders;0;0
+SCMINERP;CIF_IMPO;Integration Model Reference Table for Orders;0;0
+SCMINERP;CIF_IMPPM;Int. Model Reference Table for Production Process Model;0;0
+SCMINERP;CIF_IMPPR;Int. Mod. Reference Table for Planning Products;0;0
+SCMINERP;CIF_IMPRO;IMod Reference Table for Retail Promotion;0;0
+SCMINERP;CIF_IMPVBE;IMod Reference Table for Production Supply Area;0;0
+SCMINERP;CIF_IMRES;Integration Model Reference Table for Capacity;0;0
+SCMINERP;CIF_IMRESA;IMod Reference Table for Resources (APO Type);0;0
+SCMINERP;CIF_IMRPM;IMod Reference Table for RPM Recipient Determination;0;0
+SCMINERP;CIF_IMRSV;Integration Model Reference Table for Reservations;0;0
+SCMINERP;CIF_IMSDLS;Int. Mod. Reference Table for Sales Scheduling Agmnt Items;0;0
+SCMINERP;CIF_IMSDS;IMod Ref. Table for Sales Scheduling Agreement Items (Old);0;0
+SCMINERP;CIF_IMSHP;Integration Model Reference Table for Shipments;0;0
+SCMINERP;CIF_IMSLS;Integration Model Reference Table for Sales Orders;0;0
+SCMINERP;CIF_IMSPNT;IM Reference Table for Shipping Points;0;0
+SCMINERP;CIF_IMSRCC;Imod Reference Table for Contracts;0;0
+SCMINERP;CIF_IMSRCD;IMod Reference Table for Scheduling Agreements;0;0
+SCMINERP;CIF_IMSRCI;IMod Reference Table for Purchasing Info Records;0;0
+SCMINERP;CIF_IMSSD;Integration Model Reference Table for Simple Discontinuation;0;0
+SCMINERP;CIF_IMSTG;IMod Reference Table for Setup Groups;0;0
+SCMINERP;CIF_IMSUS;IMod Reference Table for Supersession;0;0
+SCMINERP;CIF_IMVCLP;Integration Model Reference Table for VMI Customer Material;0;0
+SCMINERP;CIF_IMVEN;Integration Model Reference Table for Vendors;0;0
+SCMINERP;CIF_IMVMI;Mapping Table for Scheduling Sales Order;0;0
+SCMINERP;CIF_LAYPREF_INDX;Cluster Table for Storing Layout Settings;0;0
+SCMINERP;CIF_MAP_HANDLE;Table: Conversion of Object ID to Unique Handle;0;0
+SCMINERP;CIF_MAP_REP_LAYT;Table for Converting Report Name to Unique ID;0;0
+SCMINERP;CIF_MAP_SP_SL;Unique Mapping of Shipping Point to Storage Location;0;0
+SCMINERP;CIF_MAPLCK;Table for Lock Object ECIF_MAPLCK;0;0
+SCMINERP;CIF_MD_CHANGES;Changes to BOM, Routing and Production Version;0;0
+SCMINERP;CIF_MTCFGS;Default Values for Configuration Relevance for SAP APO;0;0
+SCMINERP;CIF_PPM_CHANGED;PPM: Change Transfer - Changed Production Versions;0;0
+SCMINERP;CIF_PREF_INDX;Cluster Table for Storing User Settings;0;0
+SCMINERP;CIF_TCO43;Enhancements for TCO43 in Plug-In;0;0
+SCMINERP;CIF_TMRPDS;MRP DS: Customizing to Activate MRP based DS;0;0
+SCMINERP;CIF_UPDCNT;Management of Change Status for an Order in CIF;0;0
+SCMINERP;CIF_USER_PREF;User Settings;0;0
+SCMINERP;CIF_VMISD;Confirmation of Sales Area Data and Order Category for VMI;0;0
+SCMINERP;CIFALOGCNF;Configuration of the CIF Application Log;0;0
+SCMINERP;CIFAPLSET;Application-Specific Settings, Target System-Dependent;0;0
+SCMINERP;CIFAPLSET2;Application-Specific Settings, Target System-Independent;0;0
+SCMINERP;CIFBALSEL;Application Log: CIF Extension for Log Selection;0;0
+SCMINERP;CIFCPINFO;Control Table for APO-CIF CP Change Transfer;0;0
+SCMINERP;CIFDESTSYS;"CIF Target Systems: Assgt ""Own LOGSYS"" and ""CIF LOGSYS""";0;0
+SCMINERP;CIFERRCTRL;Control for Enhanced CIF Error Handling;0;0
+SCMINERP;CIFERRLOG;Error Recording in Enhanced CIF Error Handling;0;0
+SCMINERP;CIFGPARAMS;Global Parameters for CIF;0;0
+SCMINERP;CIFIMODGEN;Customizing the Automatic Generation of Integration Models;0;0
+SCMINERP;CIFMDLGVR;Versions of Table MDLG;0;0
+SCMINERP;CIFMDLVVR;Versions of Table MDLV;0;0
+SCMINERP;CIFMDMAVR;Versions of Table MDMA;0;0
+SCMINERP;CIFMDVR;Version Management for MRP Area Changes;0;0
+SCMINERP;CIFOBJINFC;Control Table for APO-CIF Filter Objects, Client-Dependent;0;0
+SCMINERP;CIFOBJINFO;Control Table for APO-CIF Filter Objects, Client-Independent;0;0
+SCMINERP;CIFOBJINFT;Texts for APO-CIF Filter Objects;0;0
+SCMINERP;CIFOPMODE;Transfer Modes for Relevant Logical System;0;0
+SCMINERP;CIFORDMAP;Mapping Table Order No. <-> APO-GUID (Plan/Prod. Orders);0;0
+SCMINERP;CIFPOMAP;Mapping Table NR/POS/ET <-> APO GUID (Purch. Ord. Docs);0;0
+SCMINERP;CIFPUCUST;Customizing for External Procurement CIF;0;0
+SCMINERP;CIFRFCDES;RFC Destinations for CIF Dialog Applications;0;0
+SCMINERP;CIFRVMAP;Mapping Table NR/POS/ET <-> APO GUID (Sales Orders);0;0
+SCMINERP;CIFSELOPT;Definition of the Selection Options for Publishing Types;0;0
+SCMINERP;CIFSLSMAP;Mapping Table NR/POS/ET <-> APO GUID (Sales Orders);0;0
+SCMINERP;CIFSTKUCOUNT;CIF Update Counter Table for Stocks;0;0
+SCMINERP;CIFTXTPOOL;Table for Storing Additional Integration Model Texts;0;0
+SCMINERP;CIFVENTYPE;Assignment of Vendor Account Group to APO Location Type;0;0
+SCM_BASIS;/SAPAPO/SYSDIR;Assignment of System/Client to RFC Destination;0;0
+SCM_BASIS;/SAPAPO/CIFGPARA;Global Parameters for CIF;0;0
+SCM_BASIS;/SAPAPO/CIFRFCDS;RFC Destinations for CIF Dialog Applications;0;0
+SCM_BASIS;/SAPAPO/SYSLST;List of Business Systems;0;0
+SCM_BASIS;/SAPAPO/SYSLSTT;Texts for business system list;0;0
+SCM_CIFMISC1;/SAPAPO/CIFPUB1;Runtime Information for Publication;0;0
+SCM_CIFMISC2;/SAPAPO/SDP_PAR;DP/SNP Parallel Processing Profile;0;0
+SCM_CIFMISC2;/SAPAPO/SDP_PART;DP/SNP Parallel Processing Profile Definitions;0;0
+SCM_PI_APPL;CIFVENTYPE;Assignment of Vendor Account Group to APO Location Type;0;0
+SCM_PI_DTRAN;CIFGPARAMS;Global Parameters for CIF;0;0
+SCM_PI_DTRO1;CIFOBJINFC;Control Table for APO-CIF Filter Objects, Client-Dependent;0;0
+SCM_PI_DTRO2;SRMPOTRANS;Customizing table for SRM to SCM PO transfer;0;0
+SCM_PI_DTRO3;CIFALOGCNF;Configuration of the CIF Application Log;0;0
+SCM_PI_DTRO4;CIFAPLSET;Application-Specific Settings, Target System-Dependent;0;0
+SCM_PI_DTRO4;CIFAPLSET2;Application-Specific Settings, Target System-Independent;0;0
+SCM_PI_LANDS;CIFRFCDES;RFC Destinations for CIF Dialog Applications;0;0
+SCM_PI_LANO1;CIFOPMODE;Transfer Modes for Relevant Logical System;0;0
 SCOT;SXPARAMS;SAPconnect: Parameter Table;1;1
 SCOT;SXADMINTAB;SAPconnect and SAPphone: Administration;1;1
 SCOT;SXNODES;SAPconnect: Communication nodes;1;1
@@ -1400,51 +1400,51 @@ SNC;TSP0U;Additional Information for Saved Data Transfer;1;1
 SOLMAN_MS;BCOS_CUST;Create Messages: Customizing;1;0
 SOLMAN_MS;TMW_ADM;Central Cross-System Lock Control;1;0
 SOLMAN_MS;SCDTSYNC;Synchronization Settings;1;0
-SREL;ORBRELTPA;Object Relationship: attributes of binary link types;1;0
-SREL;ORBRELTYP;Object relationship binary link type;1;0
-SREL;OROBJROLES;Object relationship : valid role types of an object type;1;0
-SREL;ORROLETYP;Object Relationship Service object role types;1;0
-SREL;ORTBRELTPA;Attributes of binary link types text;1;0
-SREL;ORTBRELTYP;Object relationship of binary link types text;1;0
-SREL;ORTROLETYP;Object relationship: role types text;1;0
-SREL;SRABRELSD;Object relationship: attribute position assignment logistics;1;0
-SREL;SRCICREL;Object Relationship Service: Generic Binary Links;1;0
-SREL;SRGBINREL;Object Relationship Service: Generic Binary Links;1;0
-SREL;SROBJGROUP;Object Relationship Service object group;1;0
-SREL;SROBJINGRP;Object Relationship Service table objects in group;1;0
-SREL;SRPROCESS;Object Relationship Service: Generic Binary Links;1;0
-SREL;SRRELROLES;Object Relationship Service: Roles;1;0
-SRM_BAS;SRT_REG_ADRMAP;SRT: Local System Table for Mapping Virtual Host and Address;1;0
-SRM_BAS;WSI_CALLSTRUC_IF;Call Structure for Calls in Application Frame;1;0
-SRM_BAS;WSI_CALLSTRUC;Call Structure for Web Services with own UI (OCI/OPI);1;0
-SRM_BAS;WSI_ENTITY;Entity Table for Web Services With Own UI (OCI/OPI);1;0
-SRM_BAS;WSI_DESCRIPTION;Description of a Web Service with Own UI (OCI/OPI);1;0
-STPI_CALM;/SDF/AJM_GRP_JOB;AJM : Grouped jobs in job monitoring based on executables;1;0
-STPI_CALM;/SDF/AJM_JOBS;Ajm: job list sent to central system;1;0
-STPI_CALM;/SDF/AJM_JOBS_P;AJM: Jobs with non final state;1;0
-STPI_CALM;/SDF/AJM_PJOBS;AJM: Jobs with non final state;1;0
-STPI_CALM;/SDF/AJM_SCHEDUL;Ajm : Schedule list sent to central system;1;0
-STPI_CALM;/SDF/AJM_SYNC_PT;Ajm: Job mon sync points;1;0
-STPI_CALM;/SDF/CALM_CONFIG;Configuration per use case;1;0
-STPI_CALM;/SDF/CALM_HM_SCD;Health Monitoring Scheduling;1;0
-STPI_CALM;/SDF/CALM_ID;Cloud ALM Landscape Management ID;1;0
-STPI_CALM;/SDF/CALM_INST;Scheduling per use case;1;0
-STPI_CALM;/SDF/CALM_QGROUP;QRFC Queue groups;1;0
-STPI_CALM;/SDF/CALM_SCHED;Scheduling per use case;1;0
-STPI_CALM;/SDF/CATEGORY;CATEGORY MESSAGES;1;0
-STPI_CALM;/SDF/DCCCONFIG;Data Collection Controller: configuration;1;0
-STPI_CALM;/SDF/DCCLOGDET;Data collection controller log: details;1;0
-STPI_CALM;/SDF/DCCLOGHDR;Data collection controller log: header;1;0
-STPI_CALM;/SDF/DCKPICFG;Data collector KPI configuration;1;0
-STPI_CALM;/SDF/DCOBQDATA;Data collection: outbound queue data;1;0
-STPI_CALM;/SDF/DCOBQHDR;Data collection: outbound queue header;1;0
-STPI_CALM;/SDF/DCPARAMCFG;Data collector input parameter values;1;0
-STPI_CALM;/SDF/DCRUNNING;Data collectors currently running;1;0
-STPI_CALM;/SDF/EXM_CFG;EXM specific configuration settings;1;0
-STPI_CALM;/SDF/EXM_CONFIG;EXM specific configuration settings;1;0
-STPI_CALM;/SDF/EXM_EXT_IDS;ExM tracking of AppLog external Ids for stateful tracking;1;0
-STPI_CALM;/SDF/IM_PUSH_ERR;push error;1;0
-STPI_CALM;/SDF/KPICINTRVL;Data collection: KPI collection interval;1;0
+SREL;ORBRELTPA;Object Relationship: attributes of binary link types;0;0
+SREL;ORBRELTYP;Object relationship binary link type;0;0
+SREL;OROBJROLES;Object relationship : valid role types of an object type;0;0
+SREL;ORROLETYP;Object Relationship Service object role types;0;0
+SREL;ORTBRELTPA;Attributes of binary link types text;0;0
+SREL;ORTBRELTYP;Object relationship of binary link types text;0;0
+SREL;ORTROLETYP;Object relationship: role types text;0;0
+SREL;SRABRELSD;Object relationship: attribute position assignment logistics;0;0
+SREL;SRCICREL;Object Relationship Service: Generic Binary Links;0;0
+SREL;SRGBINREL;Object Relationship Service: Generic Binary Links;0;0
+SREL;SROBJGROUP;Object Relationship Service object group;0;0
+SREL;SROBJINGRP;Object Relationship Service table objects in group;0;0
+SREL;SRPROCESS;Object Relationship Service: Generic Binary Links;0;0
+SREL;SRRELROLES;Object Relationship Service: Roles;0;0
+SRM_BAS;SRT_REG_ADRMAP;SRT: Local System Table for Mapping Virtual Host and Address;0;0
+SRM_BAS;WSI_CALLSTRUC_IF;Call Structure for Calls in Application Frame;0;0
+SRM_BAS;WSI_CALLSTRUC;Call Structure for Web Services with own UI (OCI/OPI);0;0
+SRM_BAS;WSI_ENTITY;Entity Table for Web Services With Own UI (OCI/OPI);0;0
+SRM_BAS;WSI_DESCRIPTION;Description of a Web Service with Own UI (OCI/OPI);0;0
+STPI_CALM;/SDF/AJM_GRP_JOB;AJM : Grouped jobs in job monitoring based on executables;0;0
+STPI_CALM;/SDF/AJM_JOBS;Ajm: job list sent to central system;0;0
+STPI_CALM;/SDF/AJM_JOBS_P;AJM: Jobs with non final state;0;0
+STPI_CALM;/SDF/AJM_PJOBS;AJM: Jobs with non final state;0;0
+STPI_CALM;/SDF/AJM_SCHEDUL;Ajm : Schedule list sent to central system;0;0
+STPI_CALM;/SDF/AJM_SYNC_PT;Ajm: Job mon sync points;0;0
+STPI_CALM;/SDF/CALM_CONFIG;Configuration per use case;0;0
+STPI_CALM;/SDF/CALM_HM_SCD;Health Monitoring Scheduling;0;0
+STPI_CALM;/SDF/CALM_ID;Cloud ALM Landscape Management ID;0;0
+STPI_CALM;/SDF/CALM_INST;Scheduling per use case;0;0
+STPI_CALM;/SDF/CALM_QGROUP;QRFC Queue groups;0;0
+STPI_CALM;/SDF/CALM_SCHED;Scheduling per use case;0;0
+STPI_CALM;/SDF/CATEGORY;CATEGORY MESSAGES;0;0
+STPI_CALM;/SDF/DCCCONFIG;Data Collection Controller: configuration;0;0
+STPI_CALM;/SDF/DCCLOGDET;Data collection controller log: details;0;0
+STPI_CALM;/SDF/DCCLOGHDR;Data collection controller log: header;0;0
+STPI_CALM;/SDF/DCKPICFG;Data collector KPI configuration;0;0
+STPI_CALM;/SDF/DCOBQDATA;Data collection: outbound queue data;0;0
+STPI_CALM;/SDF/DCOBQHDR;Data collection: outbound queue header;0;0
+STPI_CALM;/SDF/DCPARAMCFG;Data collector input parameter values;0;0
+STPI_CALM;/SDF/DCRUNNING;Data collectors currently running;0;0
+STPI_CALM;/SDF/EXM_CFG;EXM specific configuration settings;0;0
+STPI_CALM;/SDF/EXM_CONFIG;EXM specific configuration settings;0;0
+STPI_CALM;/SDF/EXM_EXT_IDS;ExM tracking of AppLog external Ids for stateful tracking;0;0
+STPI_CALM;/SDF/IM_PUSH_ERR;push error;0;0
+STPI_CALM;/SDF/KPICINTRVL;Data collection: KPI collection interval;0;0
 STRUST;SSF_PSE_D;SSF: Storage for Personal Security Environment Data;1;1
 STRUST;SSF_PSE_H;SSF: Personel Security Environment;1;1
 STRUST;TWPSSO2ACL;Workplace Single Sign-On 2 Access Control List;1;1
@@ -1604,63 +1604,63 @@ SWU3_CUST;SWF_NOTIF_TXT;Business Workflow: Push Notification Texts (Customizing)
 SWU3_CUST;SWFSNOTIF_ACT;Business Workflow: Push Notification Activation (Content);1;1
 SWU3_CUST;SWFSNOTIF_DECI;Business Workflow: Push Notifications Actions (Content);1;1
 SWU3_CUST;SWFSNOTIF_TXT;Business Workflow: Push Notification Texts;1;1
-SWU3_DATA;NRIV;Number Range Intervals;1;1
-SWU3_DATA;SWP_HEADER;Workflow Instances: Header Data of a Workflow Execution;1;1
-SWU3_DATA;SWW_CONT;Workflow Runtime: Work Item Data Container;1;1
-SWU3_DATA;SWW_CONTOB;Workflow Runtime: Work Item Data Container (Only Objects);1;1
-SWU3_DATA;SWW_EVENTCRL;Workflow: Correlations for Events in Workflow;1;1
-SWU3_DATA;SWW_EVENTS;Workflow: Events in Workflow;1;1
-SWU3_DATA;SWW_STAT_CRT;Workflow: Created Workflows;1;1
-SWU3_DATA;SWW_WI2OBJ;Workflow Runtime: Relation of Work Item to Object;1;1
-SWU3_DATA;SWW_WIREGISTER;Workflow:  Registration of a Work Item;1;1
-SWU3_DATA;SWWCNTP0;Workflow Container: XML Database (P0);1;1
-SWU3_DATA;SWWCNTPADD;Workflow Runtime: Persistence for Additional Container (XML);1;1
-SWU3_DATA;SWWLOGHIST;Workflow Runtime: History of a Work Item;1;1
-SWU3_DATA;SWWWIAGENT;Workflow Runtime: Agents for Execution of a Work Item;1;1
-SWU3_DATA;SWWWIDEADL;Workflow Runtime: Deadline Data for Work Items;1;1
-SWU3_DATA;SWWWIDH;Workflow Runtime: Deadline Monitoring of Work Items;1;1
-SWU3_DATA;SWWWIHEAD;Workflow Runtime: Header Table for All Work Item Types;1;1
-SWU3_DATA;SWWWIRET;Workflow Runtime: Return Values of Method Call;1;1
-SWU3_DATA;SWWORGTASK;Workflow Runtime: Assignment of WIs to Org. Unit/Task;1;1
-SWU3_DATA;SWWREPSTATUS;Table for Status of Workflow Runtime Background Jobs;1;1
-SWU3_DATA;SWWEI;Workflow Runtime: Work Items of Type E (Event Items);1;1
-SWU3_DATA;SWWUSERWI;Current Work Items Assigned to a User;1;1
-SWU3_DATA;SWP_JOIN;Workflow instances: Join node of a workflow execution;1;1
-SWU3_DATA;SWP_NODEWI;WF: Work items for nodes in a workflow definition;1;1
-SWU3_DATA;SWP_SUSPEN;Workflow instances: Suspended work item callbacks;1;1
-SWU3_DATA;SWPCMPCONT;Component Container of WFM;1;1
-SWU3_DATA;SWPNODE;WFM: Node Properties and Node Hierarchy at Runtime;1;1
-SWU3_DATA;SWPNODELOG;Workflow: Instance Data of Nodes of a Workflow Execution;1;1
-SWU3_DATA;SWPSTEPLOG;Workflow: Instance Data of Steps of a Workflow Execution;1;1
-SWU3_DATA;SWEQCONT;Collection of persistent event containers;1;1
-SWU3_DATA;SWEQUEUE;Event Queue for Temporary Storage of Triggered Events;1;1
-SXMB_ADM;SXMSCONFVL;XMS: Integration Engine Configuration Data;1;1
-SXMB_ADM;SXMSMSGDEF;Message Definition;1;1
-SXMB_ADM;SXMSINTERFACE;Sender/Receiver Definition;1;1
-SXMB_ADM;SXMSCONFDF;XMS: Integration Engine Configuration Parameters;1;1
-SXMB_ADM;SXMS_EXT_FIL;Filter for Extractors;1;1
-SXMB_ADM;SXMS_LMS_EXTR;Lean Message Search Extractor;1;1
-SXMB_ADM;SXMS_NSPREFIX;Table for Extractor Namespace Prefixes;1;1
-SXMB_ADM;SXMS_QERROR_Q;Configuration: Queue Error;1;1
-SXMB_ADM;SXMS_EOIO_VIOL;Exception Handling in EOIO Processing;1;1
-SXMB_ADM;SXMS_SND_RCV;Proxy: Sender-Receiver Determination;1;1
-SXMB_ADM;SXMSJOBS;Jobs for Time-Controlled Message Processing;1;1
-SXMB_ADM;SXMS_QUEUE_PRIO;Prioritized EOIO Queues;1;1
-SXMB_ADM;SXMSQUEUE_RCV;Mapping Queue Receiver;1;1
-SXMB_ADM;SXMSPFADDRESS;Integration Engine: Sender and Receiver Information;1;1
-SXMB_ADM;SXMSPFCOMPONENT;Integration Engine: Component Information;1;1
-SXMB_ADM;SXMS_LCR_VERS;XI: Version Information form SLD About Receiver Systems;1;1
-SXMB_ADM;SXMS_BCONF;Assignment Package Configuration;1;1
-SXMB_ADM;SXMS_BCONF_SPEC;Specific Packaging Configuration;1;1
-SXMB_ADM;SXMS_BCFG_MAST;Package Configuration Types;1;1
-SXMB_ADM;SXMS_BCFG_MATT;Text Table for SXMS_BCFG_MAST;1;1
-SXMB_ADM;SXMSLOOKUPENGINE;Look Up Table for Engine Type and Engine Name;1;1
-SXMB_ADM;SXMSARCITF2;XML Message: Archiving for Interface/NS;1;1
-SXMB_ADM;SXMSMETERAGGDEF;Service Metering - Definition of the Aggregation Record;1;1
-SXMB_ADM;SXMSMSGINDCUS;SAP XI: Configuration for Indexing of Messages;1;1
-SXMB_ADM;SXMSMSGINDSRV;SAP XI: Services for Indexing of Messages;1;1
-SXMB_ADM;SXMSMSGFILTER;SAP XI: Filter for Sender/Receiver Attributes;1;1
-SXMB_ADM;LCRT_CLNTCACHE;Cache;1;1
+SWU3_DATA;NRIV;Number Range Intervals;0;0
+SWU3_DATA;SWP_HEADER;Workflow Instances: Header Data of a Workflow Execution;0;0
+SWU3_DATA;SWW_CONT;Workflow Runtime: Work Item Data Container;0;0
+SWU3_DATA;SWW_CONTOB;Workflow Runtime: Work Item Data Container (Only Objects);0;0
+SWU3_DATA;SWW_EVENTCRL;Workflow: Correlations for Events in Workflow;0;0
+SWU3_DATA;SWW_EVENTS;Workflow: Events in Workflow;0;0
+SWU3_DATA;SWW_STAT_CRT;Workflow: Created Workflows;0;0
+SWU3_DATA;SWW_WI2OBJ;Workflow Runtime: Relation of Work Item to Object;0;0
+SWU3_DATA;SWW_WIREGISTER;Workflow:  Registration of a Work Item;0;0
+SWU3_DATA;SWWCNTP0;Workflow Container: XML Database (P0);0;0
+SWU3_DATA;SWWCNTPADD;Workflow Runtime: Persistence for Additional Container (XML);0;0
+SWU3_DATA;SWWLOGHIST;Workflow Runtime: History of a Work Item;0;0
+SWU3_DATA;SWWWIAGENT;Workflow Runtime: Agents for Execution of a Work Item;0;0
+SWU3_DATA;SWWWIDEADL;Workflow Runtime: Deadline Data for Work Items;0;0
+SWU3_DATA;SWWWIDH;Workflow Runtime: Deadline Monitoring of Work Items;0;0
+SWU3_DATA;SWWWIHEAD;Workflow Runtime: Header Table for All Work Item Types;0;0
+SWU3_DATA;SWWWIRET;Workflow Runtime: Return Values of Method Call;0;0
+SWU3_DATA;SWWORGTASK;Workflow Runtime: Assignment of WIs to Org. Unit/Task;0;0
+SWU3_DATA;SWWREPSTATUS;Table for Status of Workflow Runtime Background Jobs;0;0
+SWU3_DATA;SWWEI;Workflow Runtime: Work Items of Type E (Event Items);0;0
+SWU3_DATA;SWWUSERWI;Current Work Items Assigned to a User;0;0
+SWU3_DATA;SWP_JOIN;Workflow instances: Join node of a workflow execution;0;0
+SWU3_DATA;SWP_NODEWI;WF: Work items for nodes in a workflow definition;0;0
+SWU3_DATA;SWP_SUSPEN;Workflow instances: Suspended work item callbacks;0;0
+SWU3_DATA;SWPCMPCONT;Component Container of WFM;0;0
+SWU3_DATA;SWPNODE;WFM: Node Properties and Node Hierarchy at Runtime;0;0
+SWU3_DATA;SWPNODELOG;Workflow: Instance Data of Nodes of a Workflow Execution;0;0
+SWU3_DATA;SWPSTEPLOG;Workflow: Instance Data of Steps of a Workflow Execution;0;0
+SWU3_DATA;SWEQCONT;Collection of persistent event containers;0;0
+SWU3_DATA;SWEQUEUE;Event Queue for Temporary Storage of Triggered Events;0;0
+SXMB_ADM;SXMSCONFVL;XMS: Integration Engine Configuration Data;0;0
+SXMB_ADM;SXMSMSGDEF;Message Definition;0;0
+SXMB_ADM;SXMSINTERFACE;Sender/Receiver Definition;0;0
+SXMB_ADM;SXMSCONFDF;XMS: Integration Engine Configuration Parameters;0;0
+SXMB_ADM;SXMS_EXT_FIL;Filter for Extractors;0;0
+SXMB_ADM;SXMS_LMS_EXTR;Lean Message Search Extractor;0;0
+SXMB_ADM;SXMS_NSPREFIX;Table for Extractor Namespace Prefixes;0;0
+SXMB_ADM;SXMS_QERROR_Q;Configuration: Queue Error;0;0
+SXMB_ADM;SXMS_EOIO_VIOL;Exception Handling in EOIO Processing;0;0
+SXMB_ADM;SXMS_SND_RCV;Proxy: Sender-Receiver Determination;0;0
+SXMB_ADM;SXMSJOBS;Jobs for Time-Controlled Message Processing;0;0
+SXMB_ADM;SXMS_QUEUE_PRIO;Prioritized EOIO Queues;0;0
+SXMB_ADM;SXMSQUEUE_RCV;Mapping Queue Receiver;0;0
+SXMB_ADM;SXMSPFADDRESS;Integration Engine: Sender and Receiver Information;0;0
+SXMB_ADM;SXMSPFCOMPONENT;Integration Engine: Component Information;0;0
+SXMB_ADM;SXMS_LCR_VERS;XI: Version Information form SLD About Receiver Systems;0;0
+SXMB_ADM;SXMS_BCONF;Assignment Package Configuration;0;0
+SXMB_ADM;SXMS_BCONF_SPEC;Specific Packaging Configuration;0;0
+SXMB_ADM;SXMS_BCFG_MAST;Package Configuration Types;0;0
+SXMB_ADM;SXMS_BCFG_MATT;Text Table for SXMS_BCFG_MAST;0;0
+SXMB_ADM;SXMSLOOKUPENGINE;Look Up Table for Engine Type and Engine Name;0;0
+SXMB_ADM;SXMSARCITF2;XML Message: Archiving for Interface/NS;0;0
+SXMB_ADM;SXMSMETERAGGDEF;Service Metering - Definition of the Aggregation Record;0;0
+SXMB_ADM;SXMSMSGINDCUS;SAP XI: Configuration for Indexing of Messages;0;0
+SXMB_ADM;SXMSMSGINDSRV;SAP XI: Services for Indexing of Messages;0;0
+SXMB_ADM;SXMSMSGFILTER;SAP XI: Filter for Sender/Receiver Attributes;0;0
+SXMB_ADM;LCRT_CLNTCACHE;Cache;0;0
 TBTCS;TBTCS;Background Processing: Time Schedule Table;1;0
 TC_TASKRUN;STC_SESSION_EXIM;Task List Runs for Refresh;1;0
 TC_TASKVARI;STC_TEMPLATE;Task List Variants;1;0
@@ -1811,142 +1811,142 @@ UCON;HTTP_CORS_LOG_WH;HTTP CORS Allowlist;1;0
 UCON;HTTP_CORS_MLOG;HTTP CORS Log List (UCON HTTP);1;0
 UCON;HTTP_CORS_MSUPP;HTTP CORS Suppression List (UCON HTTP);1;0
 UCON;HTTP_CORS_SUPP;HTTP CORS Suppression List;1;0
-UNIT_TEST;SFLIGHT;Flight;1;0
-USER;ADCPS;Shadow Table: Assignment Person/Addr. (Bus. Addr. Services);1;0
-USER;ADR10S;Shadow Table: Printer (Business Address Services);1;0
-USER;ADR11S;Shadow Table: SSF (Business Address Services);1;0
-USER;ADR12S;Shadow Table: FTP and URL (Business Address Services);1;0
-USER;ADR13S;Shadow Table: Pager (Business Address Services);1;0
-USER;ADR2S;Shadow Table: Telephone Numbers (Business Address Services);1;0
-USER;ADR3S;Shadow table: Fax numbers (Business Address Services);1;0
-USER;ADR4S;Shadow Table: Teletex Numbers (Business Address Services);1;0
-USER;ADR5S;Shadow Table: Fax Numbers (Business Address Services);1;0
-USER;ADR6S;Shadow Table: SMTP Numbers (Business Address Services);1;0
-USER;ADR7S;Shadow Table: RML Addresses (Business Address Services);1;0
-USER;ADR8S;Shadow Table: X.400 Numbers (Business Address Services);1;0
-USER;ADR9S;Shadow Table: RFC Destinations (Business Address Services);1;0
-USER;ADRCOMCS;Shadow table: Counter for current numbers for comm. data;1;0
-USER;ADRCS;Shadow Table: Addresses (Business Address Services);1;0
-USER;ADRCTS;Shadow Table: Texts for Addresses (Business Addr. Services);1;0
-USER;ADRGPS;Shadow table: Assignment of persons to other person groups;1;0
-USER;ADRGS;Shadow table: Assignment of addresses to other address grps;1;0
-USER;ADRPS;Shadow Table: Persons (Business Address Services);1;0
-USER;ADRTS;Shadow Table: Texts for Communications Data (BAS);1;0
-USER;ADRUS;Shadow Table: Communication Usages (BAS);1;0
-USER;ADRVPS;Shadow Table: Where-Used List for Persons (BAS);1;0
-USER;ADRVS;Shadow Table: Where-Used List for Addresses (BAS);1;0
-USER;AGR_1016;Current Subprofiles for Single Roles;1;0
-USER;AGR_1016B;Current and Former Subprofiles for Single Roles;1;0
-USER;AGR_1250;Authorization data for the activity group;1;0
-USER;AGR_1251;Authorization data for the activity group;1;0
-USER;AGR_1252;Organizational elements for authorizations;1;0
-USER;AGR_AGRS;Roles in Composite Roles;1;0
-USER;AGR_AGRS2;Old Single Role Assignments for Composite Roles;1;0
-USER;AGR_ATTS;Role attributes;1;0
-USER;AGR_BUFFI;Internet Links for a Role;1;0
-USER;AGR_BUFFI2;Internet links table - Customer version of SAP roles;1;0
-USER;AGR_BUFFI3;Internet links table - SAP versions of SAP roles;1;0
-USER;AGR_CUSTOM;Role Customizing objects;1;0
-USER;AGR_DATEU;Personal settings for roles;1;0
-USER;AGR_DEFINE;Role definition;1;0
-USER;AGR_FLAGS;Role attributes;1;0
-USER;AGR_FLAGSB;Role attributes;1;0
-USER;AGR_HIER;Table for Structure Information for Menu;1;0
-USER;AGR_HIER2;Menu structure information - Customer version of SAP roles;1;0
-USER;AGR_HIER3;Menu structure information - SAP version of SAP roles;1;0
-USER;AGR_HIERT;Role menu texts;1;0
-USER;AGR_HIERT2;Role menu texts - Customer version of SAP objects;1;0
-USER;AGR_HIERT3;Role menu texts - SAP Original;1;0
-USER;AGR_HIER_BOR;Table for Object-Oriented Navigation (OBN);1;0
-USER;AGR_HPAGE;Home Page of a Composite Role;1;0
-USER;AGR_LSD;Role attributes;1;0
-USER;AGR_MAPP;MiniApps in Role;1;0
-USER;AGR_MINI;MiniApps in Role;1;0
-USER;AGR_MINI2;MiniApps in Role;1;0
-USER;AGR_MINIT;Role mini-appl texts;1;0
-USER;AGR_MINIT2;Role mini-application texts;1;0
-USER;AGR_NUMBER;Internal Counter for Assigning Profile Names;1;0
-USER;AGR_NUM_2;Internal Counter for Assigning Profile Names;1;0
-USER;AGR_PROF;Profile Texts for Single Roles;1;0
-USER;AGR_SELECT;Assignment of roles to Tcodes;1;0
-USER;AGR_TCDTXT;Assignment of roles to Tcodes;1;0
-USER;AGR_TCODES;Assignment of roles to Tcodes;1;0
-USER;AGR_TEXTS;File Structure for Hierarchical Menu - Customer;1;0
-USER;AGR_TIME;Time Stamp for Role (Menu, Profile, Authorizations);1;0
-USER;AGR_TIMEB;Time Stamp for the Last Profile Generation;1;0
-USER;AGR_TIMEC;Time Stamp for Role (User Assignment);1;0
-USER;AGR_TIMED;Time Stamp for Role (Profile Comparison, RFC Distribution);1;0
-USER;AGR_USERS;Assignment of roles to users;1;0
-USER;PRGN_CUST;Customizing settings for authorization process;1;0
-USER;SMEN_BUFFC;Table for Storing Favorites;1;0
-USER;SMEN_BUFFI;Links for Favorites;1;0
-USER;SMEN_DATEU;Date of Last Menu Generation;1;0
-USER;SMENUSENEW;File for the User Menu;1;0
-USER;SSM_CUST;Set Values for the Session Manager / Profile Generator;1;0
-USER;SSM_STAT_H;Status Table for the Session Manager;1;0
-USER;SSM_STAT_P;Status table for the HTML Session Manager;1;0
-USER;TVARUVN;Individual Variant Variable: Assignment TVARV;1;0
-USER;USCOMPANYS;Shadow table for USCOMPANY;1;0
-USER;USERS_SSM;Allowed menus for the Session Manager;1;0
-USER;USERS_TMP;Time stamp for user menus;1;0
-USER;USGRP;User Groups;1;0
-USER;USGRP_USER;Assignment of Users to User Groups;1;0
-USER;USGRPT;Text table for USGRP (User groups);1;0
-USER;USL04;CUA: Assignment of Users to Local Profiles;1;0
-USER;USLA04;CUA: Assignment of Users to Roles;1;0
-USER;USR01;User master record (runtime data);1;0
-USER;USR02;Logon Data (Kernel-Side Use);1;0
-USER;USR04;User master authorizations;1;0
-USER;USR05;User Master Parameter ID;1;0
-USER;USR06;Additional Data per User;1;0
-USER;USR06SYS;System-Specific User Classification (License-Related);1;0
-USER;USR08;Table for user menu entries;1;0
-USER;USR10;User master authorization profiles;1;0
-USER;USR11;User Master Texts for Profiles (USR10);1;0
-USER;USR12;User Master Authorization Values;1;0
-USER;USR13;Short Texts for Authorizations;1;0
-USER;USR14;Surchargeable Language Versions per User;1;0
-USER;USR21S;Shadow table: Assignment of user name to address key;1;0
-USER;USR22;Logon data without kernel access;1;0
-USER;USRACL;SNC Access Control List (ACL): User;1;0
-USER;USRACLEXT;Extended SNC Access Control List (ACL) for Users;1;0
-USER;USRATTR;Additional Attributes for Users;1;0
-USER;USREFUS;Reference user for internet applications;1;0
-USER;USREXTID;Assignment of External ID to Users;1;0
-USER;USREXTIDH;External ID (Access Using Hash Value);1;0
-USER;UST04;User masters;1;0
-USER;UST10C;User master: Composite profiles;1;0
-USER;UST10S;User master: Single profiles;1;0
-USER;UST12;User master: Authorizations;1;0
-USER;USZBVSYS;CUA: Assignment of Systems to Users;1;0
-USER;USRSTAMP;Time Stamp for all Changes to the User;1;0
-USER;USR_CUST;Customizing Settings for Users / Authorizations;1;0
-USER;FAVO_ROLES;Favorites for roles in PFCG;1;0
-USER;SMENFAVDAT;Date of Last Change to Favorites;1;0
-USER;TTREEF;User-specific list of favorites of structure maintenance;1;0
-USER;CUSADP;Default project and other standard settings in Customizing;1;0
-USER;TPRI_DEF;Administration for Printing Defaults;1;0
-USER;USREXTID_IDM;Table for Provisioning USREXTID Data from IDM;1;0
-USER;USBAPILINK;CUA: Default BAPI Link for Central User Administration;1;0
-USER;USZBVLNDRC;CUA: System Landscape Recipient;1;0
-USER;USZBVLNDSC;CUA: System Landscape Sender;1;0
-USER;USZBVPROT;CUA: Protocols of the Distribution of Users;1;0
-USER;USZBVPROTC;CUA: Protocols of the Distribution of Company Addresses;1;0
-USER;USZBVSYSC;CUA: Assignment of Systems to Company Addresses;1;0
-USER;USRFLD;CUA: Definition of Logical Fields;1;0
-USER;USRFLDDEF;CUA: Definition of Logical Field Names of ALE Distrib. Users;1;0
-USER;USRFLDGRP;CUA: Field Selection Groups;1;0
-USER;USRFLDSEL;CUA: Field Attributes;1;0
-USER;USRFLDT;CUA: Text Table to Define Logical Fields;1;0
-USER;USRFLDVAL;CUA: Selection Criteria for Field Attributes;1;0
-USER;USRSYSACT;CUA: Roles in Distributed Systems;1;0
-USER;USRSYSACTT;CUA: Roles in Distributed Systems;1;0
-USER;USRSYSPRF;CUA: Profiles in Distributed Systems;1;0
-USER;USRSYSPRFT;CUA: Profile Text in Distributed Systems;1;0
-USER;TBRG_AUTH;Cross-Client Authorization Groups;1;0
-USER;TBRG_AUTHT;Texts for Cross-Client Authorization Groups;1;0
-USER;TBRG_OBJ;Objects with Cross-Client Authorization Groups;1;0
-USER;USDOCU;Documentation User and Authorization Administration;1;0
+UNIT_TEST;SFLIGHT;Flight;0;0
+USER;ADCPS;Shadow Table: Assignment Person/Addr. (Bus. Addr. Services);0;0
+USER;ADR10S;Shadow Table: Printer (Business Address Services);0;0
+USER;ADR11S;Shadow Table: SSF (Business Address Services);0;0
+USER;ADR12S;Shadow Table: FTP and URL (Business Address Services);0;0
+USER;ADR13S;Shadow Table: Pager (Business Address Services);0;0
+USER;ADR2S;Shadow Table: Telephone Numbers (Business Address Services);0;0
+USER;ADR3S;Shadow table: Fax numbers (Business Address Services);0;0
+USER;ADR4S;Shadow Table: Teletex Numbers (Business Address Services);0;0
+USER;ADR5S;Shadow Table: Fax Numbers (Business Address Services);0;0
+USER;ADR6S;Shadow Table: SMTP Numbers (Business Address Services);0;0
+USER;ADR7S;Shadow Table: RML Addresses (Business Address Services);0;0
+USER;ADR8S;Shadow Table: X.400 Numbers (Business Address Services);0;0
+USER;ADR9S;Shadow Table: RFC Destinations (Business Address Services);0;0
+USER;ADRCOMCS;Shadow table: Counter for current numbers for comm. data;0;0
+USER;ADRCS;Shadow Table: Addresses (Business Address Services);0;0
+USER;ADRCTS;Shadow Table: Texts for Addresses (Business Addr. Services);0;0
+USER;ADRGPS;Shadow table: Assignment of persons to other person groups;0;0
+USER;ADRGS;Shadow table: Assignment of addresses to other address grps;0;0
+USER;ADRPS;Shadow Table: Persons (Business Address Services);0;0
+USER;ADRTS;Shadow Table: Texts for Communications Data (BAS);0;0
+USER;ADRUS;Shadow Table: Communication Usages (BAS);0;0
+USER;ADRVPS;Shadow Table: Where-Used List for Persons (BAS);0;0
+USER;ADRVS;Shadow Table: Where-Used List for Addresses (BAS);0;0
+USER;AGR_1016;Current Subprofiles for Single Roles;0;0
+USER;AGR_1016B;Current and Former Subprofiles for Single Roles;0;0
+USER;AGR_1250;Authorization data for the activity group;0;0
+USER;AGR_1251;Authorization data for the activity group;0;0
+USER;AGR_1252;Organizational elements for authorizations;0;0
+USER;AGR_AGRS;Roles in Composite Roles;0;0
+USER;AGR_AGRS2;Old Single Role Assignments for Composite Roles;0;0
+USER;AGR_ATTS;Role attributes;0;0
+USER;AGR_BUFFI;Internet Links for a Role;0;0
+USER;AGR_BUFFI2;Internet links table - Customer version of SAP roles;0;0
+USER;AGR_BUFFI3;Internet links table - SAP versions of SAP roles;0;0
+USER;AGR_CUSTOM;Role Customizing objects;0;0
+USER;AGR_DATEU;Personal settings for roles;0;0
+USER;AGR_DEFINE;Role definition;0;0
+USER;AGR_FLAGS;Role attributes;0;0
+USER;AGR_FLAGSB;Role attributes;0;0
+USER;AGR_HIER;Table for Structure Information for Menu;0;0
+USER;AGR_HIER2;Menu structure information - Customer version of SAP roles;0;0
+USER;AGR_HIER3;Menu structure information - SAP version of SAP roles;0;0
+USER;AGR_HIERT;Role menu texts;0;0
+USER;AGR_HIERT2;Role menu texts - Customer version of SAP objects;0;0
+USER;AGR_HIERT3;Role menu texts - SAP Original;0;0
+USER;AGR_HIER_BOR;Table for Object-Oriented Navigation (OBN);0;0
+USER;AGR_HPAGE;Home Page of a Composite Role;0;0
+USER;AGR_LSD;Role attributes;0;0
+USER;AGR_MAPP;MiniApps in Role;0;0
+USER;AGR_MINI;MiniApps in Role;0;0
+USER;AGR_MINI2;MiniApps in Role;0;0
+USER;AGR_MINIT;Role mini-appl texts;0;0
+USER;AGR_MINIT2;Role mini-application texts;0;0
+USER;AGR_NUMBER;Internal Counter for Assigning Profile Names;0;0
+USER;AGR_NUM_2;Internal Counter for Assigning Profile Names;0;0
+USER;AGR_PROF;Profile Texts for Single Roles;0;0
+USER;AGR_SELECT;Assignment of roles to Tcodes;0;0
+USER;AGR_TCDTXT;Assignment of roles to Tcodes;0;0
+USER;AGR_TCODES;Assignment of roles to Tcodes;0;0
+USER;AGR_TEXTS;File Structure for Hierarchical Menu - Customer;0;0
+USER;AGR_TIME;Time Stamp for Role (Menu, Profile, Authorizations);0;0
+USER;AGR_TIMEB;Time Stamp for the Last Profile Generation;0;0
+USER;AGR_TIMEC;Time Stamp for Role (User Assignment);0;0
+USER;AGR_TIMED;Time Stamp for Role (Profile Comparison, RFC Distribution);0;0
+USER;AGR_USERS;Assignment of roles to users;0;0
+USER;PRGN_CUST;Customizing settings for authorization process;0;0
+USER;SMEN_BUFFC;Table for Storing Favorites;0;0
+USER;SMEN_BUFFI;Links for Favorites;0;0
+USER;SMEN_DATEU;Date of Last Menu Generation;0;0
+USER;SMENUSENEW;File for the User Menu;0;0
+USER;SSM_CUST;Set Values for the Session Manager / Profile Generator;0;0
+USER;SSM_STAT_H;Status Table for the Session Manager;0;0
+USER;SSM_STAT_P;Status table for the HTML Session Manager;0;0
+USER;TVARUVN;Individual Variant Variable: Assignment TVARV;0;0
+USER;USCOMPANYS;Shadow table for USCOMPANY;0;0
+USER;USERS_SSM;Allowed menus for the Session Manager;0;0
+USER;USERS_TMP;Time stamp for user menus;0;0
+USER;USGRP;User Groups;0;0
+USER;USGRP_USER;Assignment of Users to User Groups;0;0
+USER;USGRPT;Text table for USGRP (User groups);0;0
+USER;USL04;CUA: Assignment of Users to Local Profiles;0;0
+USER;USLA04;CUA: Assignment of Users to Roles;0;0
+USER;USR01;User master record (runtime data);0;0
+USER;USR02;Logon Data (Kernel-Side Use);0;0
+USER;USR04;User master authorizations;0;0
+USER;USR05;User Master Parameter ID;0;0
+USER;USR06;Additional Data per User;0;0
+USER;USR06SYS;System-Specific User Classification (License-Related);0;0
+USER;USR08;Table for user menu entries;0;0
+USER;USR10;User master authorization profiles;0;0
+USER;USR11;User Master Texts for Profiles (USR10);0;0
+USER;USR12;User Master Authorization Values;0;0
+USER;USR13;Short Texts for Authorizations;0;0
+USER;USR14;Surchargeable Language Versions per User;0;0
+USER;USR21S;Shadow table: Assignment of user name to address key;0;0
+USER;USR22;Logon data without kernel access;0;0
+USER;USRACL;SNC Access Control List (ACL): User;0;0
+USER;USRACLEXT;Extended SNC Access Control List (ACL) for Users;0;0
+USER;USRATTR;Additional Attributes for Users;0;0
+USER;USREFUS;Reference user for internet applications;0;0
+USER;USREXTID;Assignment of External ID to Users;0;0
+USER;USREXTIDH;External ID (Access Using Hash Value);0;0
+USER;UST04;User masters;0;0
+USER;UST10C;User master: Composite profiles;0;0
+USER;UST10S;User master: Single profiles;0;0
+USER;UST12;User master: Authorizations;0;0
+USER;USZBVSYS;CUA: Assignment of Systems to Users;0;0
+USER;USRSTAMP;Time Stamp for all Changes to the User;0;0
+USER;USR_CUST;Customizing Settings for Users / Authorizations;0;0
+USER;FAVO_ROLES;Favorites for roles in PFCG;0;0
+USER;SMENFAVDAT;Date of Last Change to Favorites;0;0
+USER;TTREEF;User-specific list of favorites of structure maintenance;0;0
+USER;CUSADP;Default project and other standard settings in Customizing;0;0
+USER;TPRI_DEF;Administration for Printing Defaults;0;0
+USER;USREXTID_IDM;Table for Provisioning USREXTID Data from IDM;0;0
+USER;USBAPILINK;CUA: Default BAPI Link for Central User Administration;0;0
+USER;USZBVLNDRC;CUA: System Landscape Recipient;0;0
+USER;USZBVLNDSC;CUA: System Landscape Sender;0;0
+USER;USZBVPROT;CUA: Protocols of the Distribution of Users;0;0
+USER;USZBVPROTC;CUA: Protocols of the Distribution of Company Addresses;0;0
+USER;USZBVSYSC;CUA: Assignment of Systems to Company Addresses;0;0
+USER;USRFLD;CUA: Definition of Logical Fields;0;0
+USER;USRFLDDEF;CUA: Definition of Logical Field Names of ALE Distrib. Users;0;0
+USER;USRFLDGRP;CUA: Field Selection Groups;0;0
+USER;USRFLDSEL;CUA: Field Attributes;0;0
+USER;USRFLDT;CUA: Text Table to Define Logical Fields;0;0
+USER;USRFLDVAL;CUA: Selection Criteria for Field Attributes;0;0
+USER;USRSYSACT;CUA: Roles in Distributed Systems;0;0
+USER;USRSYSACTT;CUA: Roles in Distributed Systems;0;0
+USER;USRSYSPRF;CUA: Profiles in Distributed Systems;0;0
+USER;USRSYSPRFT;CUA: Profile Text in Distributed Systems;0;0
+USER;TBRG_AUTH;Cross-Client Authorization Groups;0;0
+USER;TBRG_AUTHT;Texts for Cross-Client Authorization Groups;0;0
+USER;TBRG_OBJ;Objects with Cross-Client Authorization Groups;0;0
+USER;USDOCU;Documentation User and Authorization Administration;0;0
 VARIANTS;VARI;ABAP/4: Variant storage (similar to INDX);1;0
 VARIANTS;VARINUM;Internal number assignment for variants;1;0
 VARIANTS;VARID;Variant directory;1;0
@@ -1954,26 +1954,26 @@ VARIANTS;VARIT;Variant Texts;1;0
 VARIANTS;VARIS;Assignment of variant to selection screen;1;0
 VARIANTS;VARIDESC;Selection Variants: Description;1;0
 VARIANTS;TVARVC;Table of Variant Variables (Client-Specific);1;0
-VERSDEV;VRSD;Version management: Directory table;1;0
-VERSDEV;VRSMODISRC;Version store for SMODISRC;1;0
-VERSDEV;VRSX;Central Table for Version Management;1;0
-VERSDEV;VRSX2;Central Table for Version Management (Report Source);1;0
-VERSDEV;VRSX3;Central Data Table for Version Management (Methods,...);1;0
-VERSDEV;VRSX4;Version Data Table for MIMEs;1;0
-VERSDEV;VRSX5;Version Data Table for Aliases;1;0
-VERSDEV;DEVACCESS;Table for development user;1;0
-VERSDEV;ENHOBJCONTRACT;Enhancement Objects;1;0
-VERSDEV;ENHCONTRACTCONT;Contract Data: Content of Complete Main Source Object;1;0
-VERSDEV;ENHLOG;Enhancement Log;1;0
-VERSDEV;RSEUMOD;Settings for ABAP Workbench;1;0
-VIRUSSCAN;VSCAN_SERVER;Virus Scan Provider Definition;1;0
-VIRUSSCAN;VSCAN_GROUP;Scanner Groups;1;0
-VIRUSSCAN;VSCAN_GROUPT;Scanner Group Text;1;0
-VIRUSSCAN;VSCAN_GROUP_P;Configuration Parameters of the Scanner Group;1;0
-VIRUSSCAN;VSCAN_PROF;Virus Scan Profiles;1;0
-VIRUSSCAN;VSCAN_PROFT;Texts for Virus Scan Profiles;1;0
-VIRUSSCAN;VSCAN_PROF_GRP;Scanner Groups for each Virus Scan Profile;1;0
-VIRUSSCAN;VSCAN_PROF_PAR;Config. Parameters for each Virus Scan Profile/Scanner Group;1;0
+VERSDEV;VRSD;Version management: Directory table;0;0
+VERSDEV;VRSMODISRC;Version store for SMODISRC;0;0
+VERSDEV;VRSX;Central Table for Version Management;0;0
+VERSDEV;VRSX2;Central Table for Version Management (Report Source);0;0
+VERSDEV;VRSX3;Central Data Table for Version Management (Methods,...);0;0
+VERSDEV;VRSX4;Version Data Table for MIMEs;0;0
+VERSDEV;VRSX5;Version Data Table for Aliases;0;0
+VERSDEV;DEVACCESS;Table for development user;0;0
+VERSDEV;ENHOBJCONTRACT;Enhancement Objects;0;0
+VERSDEV;ENHCONTRACTCONT;Contract Data: Content of Complete Main Source Object;0;0
+VERSDEV;ENHLOG;Enhancement Log;0;0
+VERSDEV;RSEUMOD;Settings for ABAP Workbench;0;0
+VIRUSSCAN;VSCAN_SERVER;Virus Scan Provider Definition;1;1
+VIRUSSCAN;VSCAN_GROUP;Scanner Groups;1;1
+VIRUSSCAN;VSCAN_GROUPT;Scanner Group Text;1;1
+VIRUSSCAN;VSCAN_GROUP_P;Configuration Parameters of the Scanner Group;1;1
+VIRUSSCAN;VSCAN_PROF;Virus Scan Profiles;1;1
+VIRUSSCAN;VSCAN_PROFT;Texts for Virus Scan Profiles;1;1
+VIRUSSCAN;VSCAN_PROF_GRP;Scanner Groups for each Virus Scan Profile;1;1
+VIRUSSCAN;VSCAN_PROF_PAR;Config. Parameters for each Virus Scan Profile/Scanner Group;1;1
 WEBFLOW;SWLIAG;Workflow Inbox Setting for Role;1;0
 WEBFLOW;SWLICLS;Workflow Inbox: Classes for Work Item Selection;1;0
 WEBFLOW;SWLICLST;Workflow Inbox: Classes for Work Item Selection/Texts;1;0
@@ -2282,45 +2282,45 @@ WEBSERVICE;UDDICL_KEYS;Key Administration for Objects Published in UDDI Registri
 WEBSERVICE;UDDICL_REG;UDDI Client: Administration of UDDI Registries;1;1
 WEBSERVICE;UDDICL_REGT;UDDI Client: Administration of UDDI Registries - Text Table;1;1
 WEBSERVICE;UDDICL_SEARCH;UDDI Client: Temporary Store for Search Results(OverviewURL);1;1
-Z_AZURE_BLOB;ZABS_OAUTH_DATA;Oauth credentials for Azure blob storage;1;1
-Z_EVENT_MESH;/IWXBE/C_AIF_ALR;EEE - AIF Alert table;1;0
-Z_EVENT_MESH;/IWXBE/C_CH;Unified Eventing Channel Definitions;1;0
-Z_EVENT_MESH;/IWXBE/C_CHB;Unified Eventing Channel Bindings;1;0
-Z_EVENT_MESH;/IWXBE/C_CHD;Unified Eventing Channel Destinations;1;0
-Z_EVENT_MESH;/IWXBE/C_CHP;Unified Eventing Channel Parameter Values;1;0
-Z_EVENT_MESH;/IWXBE/C_CHT;Unified Eventing Channel Descriptions;1;0
-Z_EVENT_MESH;/IWXBE/C_EVENT;Enterprise Eventing Events;1;0
-Z_EVENT_MESH;/IWXBE/C_EVTFILT;EEE - Event Filter;1;0
-Z_EVENT_MESH;/IWXBE/C_EVTSTAT;Enterprise Event Enablement Statistics - Obsolete;1;0
-Z_EVENT_MESH;/IWXBE/C_INTOPIC;EEE - Inbound Topics;1;0
-Z_EVENT_MESH;/IWXBE/C_IS_CHB;Enterprise Event Enablement: Inbound Stream Binding;1;0
-Z_EVENT_MESH;/IWXBE/C_LOGLV;SAP Log Level for the Application Log;1;0
-Z_EVENT_MESH;/IWXBE/C_OUTTOP;EEE - Outbound Topics;1;0
-Z_EVENT_MESH;/IWXBE/C_TOPCON;EEE - Inbound Stream Binding;1;0
-Z_EVENT_MESH;/IWXBE/I_AIF_IDX;EEE - AIF index table;1;0
-Z_EVENT_MESH;/IWXBE/I_CONS;EEE - Consumer Registry;1;0
-Z_EVENT_MESH;/IWXBE/I_CONS_ET;EEE - Consumer Registry - Event Type;1;0
-Z_EVENT_MESH;/IWXBE/I_CONS_T;EEE - Consumer Registry - Text;1;0
-Z_EVENT_MESH;/IWXBE/I_CP;Unified Eventing Channel Protocol Registry;1;0
-Z_EVENT_MESH;/IWXBE/I_CPP;Unified Eventing Channel Protocol Parameters;1;0
-Z_EVENT_MESH;/IWXBE/I_CPPD;Unified Eventing Channel Protocol Parameter Definition;1;0
-Z_EVENT_MESH;/IWXBE/I_CPPT;Unified Eventing Channel Protocol Parameter Descriptions;1;0
-Z_EVENT_MESH;/IWXBE/I_CPT;Unified Eventing Channel Protocol Descriptions;1;0
-Z_EVENT_MESH;/IWXBE/I_CRP_CON;EEE - Cloud reporting consumed event statistic;1;0
-Z_EVENT_MESH;/IWXBE/I_CRP_PUB;EEE - Cloud reporting published event statistic;1;0
-Z_EVENT_MESH;/IWXBE/I_DLQ_CON;EEE- Dead Letter Queue Consume;1;0
-Z_EVENT_MESH;/IWXBE/I_DLQ_PUB;EEE - Dead Letter Queue Publish;1;0
-Z_EVENT_MESH;/IWXBE/I_INEVENT;EEE - Inbound Event Queue;1;0
-Z_EVENT_MESH;/IWXBE/I_PROD;EEE - Producer Registry;1;0
-Z_EVENT_MESH;/IWXBE/I_RUN_PAR;Runtime parameters;1;0
-Z_EVENT_MESH;/IWXBE/I_SRV;Unified Eventing Service Registry;1;0
-Z_EVENT_MESH;/IWXBE/I_SRVT;Unified Eventing Service Descriptions;1;0
-Z_EVENT_MESH;/IWXBE/I_SUBSCR;EEE - Subscription Table;1;0
-Z_EVENT_MESH;/IWXBE/L_CACHE;Description Cache;1;0
-Z_EVENT_MESH;/IWXBE/L_CE_CTXT;EEE - Cloud Event Context;1;0
-Z_EVENT_MESH;/IWXBE/L_CHGOUTB;EEE - Changed Outbound bindings from after import;1;0
-Z_EVENT_MESH;/IWXBE/L_DMON_PL;EEE - Daemon Instance ID for Parallel Publishing;1;0
-Z_EVENT_MESH;/IWXBE/L_DMONIDX;EEE - Daemon Index;1;0
-Z_EVENT_MESH;/IWXBE/L_MDL_ID;EEE - Proxy model ids;1;0
-Z_EVENT_MESH;/IWXBE/L_RALCTXT;EEE - RAL - Context Database;1;0
-Z_EVENT_MESH;/IWXBE/SU_ERRLOG;Events Error Log;1;0
+Z_AZURE_BLOB;ZABS_OAUTH_DATA;Oauth credentials for Azure blob storage;0;0
+Z_EVENT_MESH;/IWXBE/C_AIF_ALR;EEE - AIF Alert table;0;0
+Z_EVENT_MESH;/IWXBE/C_CH;Unified Eventing Channel Definitions;0;0
+Z_EVENT_MESH;/IWXBE/C_CHB;Unified Eventing Channel Bindings;0;0
+Z_EVENT_MESH;/IWXBE/C_CHD;Unified Eventing Channel Destinations;0;0
+Z_EVENT_MESH;/IWXBE/C_CHP;Unified Eventing Channel Parameter Values;0;0
+Z_EVENT_MESH;/IWXBE/C_CHT;Unified Eventing Channel Descriptions;0;0
+Z_EVENT_MESH;/IWXBE/C_EVENT;Enterprise Eventing Events;0;0
+Z_EVENT_MESH;/IWXBE/C_EVTFILT;EEE - Event Filter;0;0
+Z_EVENT_MESH;/IWXBE/C_EVTSTAT;Enterprise Event Enablement Statistics - Obsolete;0;0
+Z_EVENT_MESH;/IWXBE/C_INTOPIC;EEE - Inbound Topics;0;0
+Z_EVENT_MESH;/IWXBE/C_IS_CHB;Enterprise Event Enablement: Inbound Stream Binding;0;0
+Z_EVENT_MESH;/IWXBE/C_LOGLV;SAP Log Level for the Application Log;0;0
+Z_EVENT_MESH;/IWXBE/C_OUTTOP;EEE - Outbound Topics;0;0
+Z_EVENT_MESH;/IWXBE/C_TOPCON;EEE - Inbound Stream Binding;0;0
+Z_EVENT_MESH;/IWXBE/I_AIF_IDX;EEE - AIF index table;0;0
+Z_EVENT_MESH;/IWXBE/I_CONS;EEE - Consumer Registry;0;0
+Z_EVENT_MESH;/IWXBE/I_CONS_ET;EEE - Consumer Registry - Event Type;0;0
+Z_EVENT_MESH;/IWXBE/I_CONS_T;EEE - Consumer Registry - Text;0;0
+Z_EVENT_MESH;/IWXBE/I_CP;Unified Eventing Channel Protocol Registry;0;0
+Z_EVENT_MESH;/IWXBE/I_CPP;Unified Eventing Channel Protocol Parameters;0;0
+Z_EVENT_MESH;/IWXBE/I_CPPD;Unified Eventing Channel Protocol Parameter Definition;0;0
+Z_EVENT_MESH;/IWXBE/I_CPPT;Unified Eventing Channel Protocol Parameter Descriptions;0;0
+Z_EVENT_MESH;/IWXBE/I_CPT;Unified Eventing Channel Protocol Descriptions;0;0
+Z_EVENT_MESH;/IWXBE/I_CRP_CON;EEE - Cloud reporting consumed event statistic;0;0
+Z_EVENT_MESH;/IWXBE/I_CRP_PUB;EEE - Cloud reporting published event statistic;0;0
+Z_EVENT_MESH;/IWXBE/I_DLQ_CON;EEE- Dead Letter Queue Consume;0;0
+Z_EVENT_MESH;/IWXBE/I_DLQ_PUB;EEE - Dead Letter Queue Publish;0;0
+Z_EVENT_MESH;/IWXBE/I_INEVENT;EEE - Inbound Event Queue;0;0
+Z_EVENT_MESH;/IWXBE/I_PROD;EEE - Producer Registry;0;0
+Z_EVENT_MESH;/IWXBE/I_RUN_PAR;Runtime parameters;0;0
+Z_EVENT_MESH;/IWXBE/I_SRV;Unified Eventing Service Registry;0;0
+Z_EVENT_MESH;/IWXBE/I_SRVT;Unified Eventing Service Descriptions;0;0
+Z_EVENT_MESH;/IWXBE/I_SUBSCR;EEE - Subscription Table;0;0
+Z_EVENT_MESH;/IWXBE/L_CACHE;Description Cache;0;0
+Z_EVENT_MESH;/IWXBE/L_CE_CTXT;EEE - Cloud Event Context;0;0
+Z_EVENT_MESH;/IWXBE/L_CHGOUTB;EEE - Changed Outbound bindings from after import;0;0
+Z_EVENT_MESH;/IWXBE/L_DMON_PL;EEE - Daemon Instance ID for Parallel Publishing;0;0
+Z_EVENT_MESH;/IWXBE/L_DMONIDX;EEE - Daemon Index;0;0
+Z_EVENT_MESH;/IWXBE/L_MDL_ID;EEE - Proxy model ids;0;0
+Z_EVENT_MESH;/IWXBE/L_RALCTXT;EEE - RAL - Context Database;0;0
+Z_EVENT_MESH;/IWXBE/SU_ERRLOG;Events Error Log;0;0
