@@ -1,0 +1,4 @@
+nicegui>=1.4.30
+# nicegui itself depends on fastapi; declared explicitly because
+# r3tr/app.py imports fastapi directly (download endpoints).
+fastapi>=0.100
