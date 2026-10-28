@@ -83,6 +83,13 @@ source .venv/bin/activate
 pip install -r requirements.txt
 pip install pytest        # only for running the test suite
 ```
+## Setup Windows
+```bash
+cd r3tr-generator
+python3 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
 
 ## Usage – Web UI (recommended)
 
